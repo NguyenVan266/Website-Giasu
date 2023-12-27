@@ -31,17 +31,6 @@ class UserController extends Controller
             alert()->error('Tài khoản hoặc mật khẩu chưa đúng !!!')->showConfirmButton('Đồng ý','red')->autoClose(5000);
             return redirect()->back();
         }
-        // $data = [
-        //     'email' => $request->email,
-        //     'password' => $request->password,
-        // ];
-
-        // if (Auth::attempt($data)) {
-        //      return redirect()->route('dashboard');
-        // } else {
-        //     $request->session()->flash('error', 'Sai mật khẩu hoặc tài khoản');
-        //     return redirect()->back();
-        // }
     }
     public function login2(Request $request) {
         $data = [
@@ -56,48 +45,35 @@ class UserController extends Controller
             alert()->error('Tài khoản hoặc mật khẩu chưa đúng !!!')->showConfirmButton('Đồng ý','red')->autoClose(5000);
             return redirect()->back();
         }
-        // $data = [
-        //     'email' => $request->email,
-        //     'password' => $request->password,
-        // ];
-
-        // if (Auth::attempt($data)) {
-        //      return redirect()->route('dashboard');
-        // } else {
-        //     $request->session()->flash('error', 'Sai mật khẩu hoặc tài khoản');
-        //     return redirect()->back();
-        // }
     }
     public function register(Request $request) {
-        if(DB::table('users')->where('email',$request->email)->first()){
-            alert()->error('Email đã tồn tại !!!')->showConfirmButton('Đồng ý','red')->autoClose(5000);
-            return redirect()->back();
-        }elseif(DB::table('users')->where('phone', $request->phone)->first()){
-            alert()->error('Số điện thoại đã tồn tại !!!')->showConfirmButton('Đồng ý','red')->autoClose(5000);
+        $combinedExists = DB::table('users')
+        ->where('email', $request->email)
+        ->orWhere('phone', $request->phone)
+        ->exists();
+
+        if ($combinedExists) {
+            alert()->error('Email || Số điện thoại đã tồn tại !!!')->showConfirmButton('Đồng ý','red')->autoClose(5000);
             return redirect()->back();
         }
-        elseif(DB::table('users')->where('email', $request->email)->first() && DB::table('user')->where('phone', $request->phone)->first()){
-            alert()->error('Email và Số điện thoại đã tồn tại !!!')->showConfirmButton('Đồng ý','red')->autoClose(5000);
+
+        $user = new User;
+        $user->name = $request['name'];
+        $user->email = $request['email'];
+        $user->address = $request['address'];
+        $user->gender = $request['gender'];
+        $user->phone = $request['phone'];
+        $user->password = Hash::make($request['password']);
+        $user->level = 0;
+        $check_save = $user->save();
+        if ($check_save) {
+        // Lưu thành công
+            alert()->success('Đăng ký thành công')->showConfirmButton('Đồng ý','red')->autoClose(5000);
             return redirect()->back();
         } else {
-            $validate = $request->validate([
-                'name' => ['required', 'string', 'max:255'],
-                'email' => ['required', 'string', 'email', 'max:255', 'unique:users'],
-                'password' => ['required', 'string', 'min:8', 'confirmed'],
-            ]);
-            if($validate){
-                $user = new User;
-                $user->name = $request['name'];
-                $user->email = $request['email'];
-                $user->address = $request['address'];
-                $user->gender = $request['gender'];
-                $user->phone = $request['phone'];
-                $user->password = Hash::make($request['password']);
-                $user->level = 0;
-                $user->save();
-                alert()->success('Đăng ký thành công')->showConfirmButton('Đồng ý','red')->autoClose(5000);
-                return redirect()->back();
-            }
+            // Lưu không thành công
+            alert()->error('Có lỗi xảy ra trong quá trình lưu vào cơ sở dữ liệu')->showConfirmButton('Đồng ý','red')->autoClose(5000);
+            return redirect()->back();
         }
     }
     public function profile() {

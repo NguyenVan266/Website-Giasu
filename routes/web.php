@@ -52,7 +52,7 @@ Route::get('/gioithieu',[HomeController::class, 'gioithieu'])->name('gioithieu')
 Route::get('lienhe',[HomeController::class, 'lienhe'])->name('lienhe');
 Route::post('/userlogin',[UserController::class, 'login'])->name('user.login');
 Route::post('/userlogin2',[UserController::class, 'login2'])->name('user.login2');
-Route::post('/userregister',[UserController::class, 'register'])->name('user.register');
+Route::post('/user/register',[UserController::class, 'register'])->name('user.register');
 Route::post('contact/create', [ContactController::class,'store'])->name('contact.create');
 
 
@@ -74,9 +74,15 @@ Route::prefix('datve/')->middleware(['auth'])->group(function () {
     Route::post('payment/online',[BookingController::class, 'createpayment'])->name('payment.online');
     Route::get('vnpay/return', [BookingController::class, 'vnpayreturn'])->name('vnpay.return');
 });
+
+route::get('admin',function(){
+    return view('admin.login');
+});
+
 route::get('admin/dangnhap',function(){
     return view('admin.login');
 });
+
 Route::post('admin/dangnhap', [AdminController::class, 'login'])->name('admin.login');
 Route::prefix('admin')->middleware('admin')->group(function () {
     /*-------------------------------------------------Admin---------------------------------------------------------------*/

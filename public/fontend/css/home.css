@@ -1,0 +1,124 @@
+.box_buses {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.box_top,
+.box_bottom {
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    gap: 10px;
+}
+
+.item_center {
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    background: rgb(1, 148, 243);
+    border-radius: 50%;
+    cursor: pointer;
+    margin-bottom: 3px;
+}
+
+.item_top {
+    display: flex;
+    flex-direction: column;
+    width: calc(50% - 25px);
+    gap: 5px;
+}
+
+.select_item {
+    display: flex;
+    width: 100%;
+}
+
+span#select2-from-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+span.select2.select2-container.select2-container--default {
+    width: 100% !important;
+    text-align: left;
+}
+
+.title_item {
+    display: flex;
+    font-weight: 600;
+}
+
+.bottom_item {
+    width: 33%;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.item_content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 5px;
+    border: 1px solid #CCCCCC;
+    height: 33px;
+    border-radius: 5px;
+}
+
+input#datepicker {
+    margin: 0 !important;
+}
+
+.select_form {
+    margin: 0 !important;
+    width: 100% !important;
+    border-radius: 5px !important;
+    border: 1px solid #CCCCCC !important;
+}
+
+.item_content input {
+    border: unset;
+    width: 100% !important;
+}
+
+.item_img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2px;
+    overflow: hidden;
+    width: 30px;
+    height: 100%;
+    border-right: 1px solid #CCCCCC;
+}
+
+.item_input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: calc(100% - 30px);
+}
+
+span.select2-selection__arrow {
+    height: 35px !important;
+}
+
+.item_center img {
+    transform: rotate(90deg);
+}
+
+.box_top {
+    align-items: end;
+}
+
+.box_bottom {
+    align-items: start;
+}

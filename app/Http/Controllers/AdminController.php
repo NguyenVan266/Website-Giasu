@@ -29,36 +29,26 @@ class AdminController extends Controller
         $data = [
             'email' => $request->email,
             'password' => $request->password,
-            'level' => 1,
         ];
-        $notpermission = [
-            'email' => $request->email,
-            'password' => $request->password,
-            'level' => 0,
-        ];
+
         if (Auth::guard('web')->attempt($data)) {
-            alert()->success('Đăng nhập thành công')->showConfirmButton('Đồng ý','#3085d6')->autoClose(5000);
-            return redirect()->route('dashboard');
-        }
-        else if(Auth::guard('web')->attempt($notpermission)){
-            $request->session()->flash('error', 'Bạn không có quyền truy cập');
-            return redirect()->back();
-        }
-        else {
+            $user = Auth::guard('web')->user();
+
+            if ($user->level == 1) {
+                // User has level 1, redirect to dashboard
+                alert()->success('Đăng nhập thành công')->showConfirmButton('Đồng ý','#3085d6')->autoClose(5000);
+                return redirect()->route('dashboard');
+            } else {
+                // User has level 0, no permission
+                Auth::guard('web')->logout();
+                $request->session()->flash('error', 'Bạn không có quyền truy cập');
+                return redirect()->back();
+            }
+        } else {
+            // Invalid email or password
             $request->session()->flash('error', 'Sai mật khẩu hoặc tài khoản');
             return redirect()->back();
         }
-        // $data = [
-        //     'email' => $request->email,
-        //     'password' => $request->password,
-        // ];
-
-        // if (Auth::attempt($data)) {
-        //      return redirect()->route('dashboard');
-        // } else {
-        //     $request->session()->flash('error', 'Sai mật khẩu hoặc tài khoản');
-        //     return redirect()->back();
-        // }
     }
     public function dashboard(){
         $dauthangnay = Carbon::now('Asia/Ho_Chi_Minh')->startOfMonth()->toDateString();
