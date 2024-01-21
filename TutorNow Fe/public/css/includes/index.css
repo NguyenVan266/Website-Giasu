@@ -1,0 +1,1282 @@
+/*NỘI DUNG CỦA TRANG CHỦ*/
+.header {
+	/* background: url(/gia-su/img/anhdaidien.webp) no-repeat center ; */
+}
+.content {
+	width: 100%;
+	position: relative;
+	float: left;
+}
+.three-h {
+	width: 100%;
+	float: left;
+	margin: auto;
+	top: -50px;
+	padding-top: 50px;
+	padding-bottom: 65px;
+	/* position: relative; */
+}
+@media (min-width: 1200px) {
+	.container {
+		max-width: 1200px;
+		padding: 0;
+	}
+}
+.slick-prev:before {
+	content: '';
+	position: absolute;
+	float: left;
+	top: -113px;
+	left: -4px;
+	background: url(/gia-su/img/pre.png) no-repeat;
+	width: 54px;
+	height: 54px;
+}
+.exp-img-face {
+	width: 100%;
+	float: left;
+}
+.wp_bd_cl {
+	width: 100%;
+	float: left;
+	padding: 27px 26px;
+	background: #ffffff;
+	box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+}
+.exp-img-one {
+	width: 20%;
+	float: left;
+	text-align: center;
+}
+.exp-img-one img {
+	width: 61px;
+	height: 66px;
+}
+.exp-ct {
+	width: 65%;
+	float: left;
+	padding-left: 14px;
+}
+.exp-ct a {
+	font-weight: 500;
+	font-size: 16px;
+	width: 100%;
+	float: left;
+	line-height: 19px;
+	letter-spacing: 0.3px;
+	text-transform: capitalize;
+	color: #182b49;
+}
+.exp-ct a::before {
+	content: '';
+	position: absolute;
+	float: left;
+	background: url(/gia-su/img/icon6.png) no-repeat;
+	top: 32px;
+	right: 115px;
+	width: 12px;
+	height: 10px;
+}
+.exp-ct p {
+	width: 100%;
+	float: left;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 21px;
+	letter-spacing: 0.3px;
+	color: #969696;
+	margin-bottom: 0;
+}
+.exp-img-face {
+	width: 100%;
+	float: left;
+}
+.exp-three .exp-ct a::before {
+	right: 155px;
+}
+.content-one {
+	width: 100%;
+	float: left;
+	padding-bottom: 330px;
+	background: #fff;
+	position: relative;
+	height: auto;
+}
+.ct-h {
+	width: 100%;
+	padding-right: 30px;
+}
+.ct-h h2 {
+	font-size: 26px;
+	line-height: 1.5em;
+	text-align: justify;
+	width: 100%;
+	padding-bottom: 20px;
+	color: #182b49;
+}
+.ct-h p {
+	font-size: 16px;
+	line-height: 1.5em;
+	width: 100%;
+	text-align: left;
+}
+.ct-h-qt {
+	width: 100%;
+	padding-top: 20px;
+}
+.ct-h p {
+	font-size: 16px;
+	line-height: 1.5em;
+	width: 100%;
+	text-align: left;
+}
+.ct-h-qt .ct-qt {
+	text-align: center;
+	width: 100%;
+	font-size: 25px;
+}
+.ct-qt-one .ct-qt {
+	color: #ff6f6f;
+}
+.ct-h-qt .ct-nd {
+	text-align: center;
+	width: 100%;
+	font-size: 14px;
+	color: #182b49;
+	font-weight: bold;
+}
+.ct-qt-tow .ct-qt {
+	color: #84479c;
+}
+.ct-qt-three .ct-qt {
+	color: #4c5bd4;
+}
+/*GIA SƯ MỚI NHẤT*/
+.content-tow {
+	width: 100%;
+	float: left;
+	background: #01003d;
+	margin-top: -210px;
+}
+.ct-tow-h {
+	width: 100%;
+	float: left;
+	z-index: 2;
+	padding-bottom: 40px;
+}
+.ct-tow-h .p-ct-nd {
+	font-size: 15px;
+	width: 80%;
+	line-height: 1.5em;
+	float: left;
+}
+.ct-tow-h .p-ct-nd p {
+	width: 100%;
+	float: left;
+	font-size: 16px;
+	line-height: 19px;
+	color: #666666;
+	margin-bottom: 0;
+}
+.ct-tow-h .p-ct-ad {
+	width: 20%;
+	float: left;
+	text-align: right;
+	padding-right: 27px;
+}
+.ct-tow-h .p-ct-ad p {
+	width: 100%;
+	float: left;
+	margin-bottom: 0;
+}
+.ct-tow-h .p-ct-ad p a {
+	width: 100%;
+	text-align: right;
+	background: url(/gia-su/img/icon6.png) no-repeat;
+	background-position: right;
+	text-decoration: none;
+	color: #182b49;
+	padding-right: 20px;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 19px;
+}
+.ct-ct {
+	padding: 0px;
+	z-index: 2;
+	width: 100%;
+}
+.ct-ct .cl-ct {
+	background: #ffffff;
+	border-radius: 15px 15px 15px 15px;
+	margin-bottom: 25px;
+	width: 32%;
+	float: left;
+	padding: 0;
+	-webkit-box-shadow: 0 0 1px 0 #1f1f1f;
+	box-shadow: 0 0 1px 0 #1f1f1f;
+	overflow: auto;
+	min-height: 530px;
+}
+.cl-ct .ct-ct-one {
+	width: 100%;
+	float: left;
+}
+.cl-ct .ct-ct-one .avt {
+	text-align: center;
+	width: 100%;
+	height: 245px;
+	background: #fff;
+	padding: 22px;
+}
+.cl-ct .ct-ct-one .avt img {
+	width: 200px;
+	height: 200px;
+	margin: auto;
+	display: inherit;
+	border-radius: 50%;
+	object-fit: cover;
+}
+.ct-ct .cl-ct h3 {
+	width: 100%;
+	float: left;
+	padding: 25px 20px 15px 20px;
+}
+.ct-ct .cl-ct h3 a {
+	width: 100%;
+	float: left;
+	line-height: 19px;
+	color: #182b49;
+	display: -webkit-box;
+	-webkit-line-clamp: 1;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+	-o-text-overflow: ellipsis;
+	text-overflow: ellipsis;
+	margin-bottom: 0;
+	font-weight: bold;
+	font-size: 16px;
+	text-decoration: none;
+}
+.ct-ic {
+	width: 100%;
+	float: left;
+	padding: 0px 20px 20px 20px;
+}
+.ct-ic p {
+	float: left;
+	color: #666666;
+	padding-left: 20px;
+	font-size: 15px;
+	line-height: 18px;
+	margin-bottom: 0;
+	padding-right: 22px;
+}
+.ct-ic p {
+	float: left;
+	color: #666666;
+	padding-left: 20px;
+	font-size: 15px;
+	line-height: 18px;
+	margin-bottom: 0;
+	padding-right: 22px;
+}
+.ct-ct-p {
+	width: 100%;
+	float: left;
+	padding: 20px 20px;
+	border-top: 1px dashed #dddddd;
+	margin-bottom: 0;
+}
+.ct-ct-p span {
+	width: 100%;
+	float: left;
+	font-size: 15px;
+	margin-bottom: 0;
+	line-height: 24px;
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+	-o-text-overflow: ellipsis;
+	text-overflow: ellipsis;
+	height: 50px;
+	word-break: break-word;
+}
+.ct-bt {
+	display: flex;
+	width: 100%;
+	float: left;
+	padding: 0px 20px 30px 20px;
+	text-align: center;
+}
+.ct-bt .ct-bt-co {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: #ffffff;
+	border: 1px solid #efefef;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	border-radius: 10px;
+	float: left;
+	padding: 11px 25px;
+	font-size: 15px;
+	margin-bottom: 0;
+	margin-right: 10px;
+	line-height: 18px;
+	color: #575757;
+	opacity: 0.75;
+}
+.ct-bt .ct-bt-pr {
+	flex: 1;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: #f8971c;
+	border-radius: 10px;
+	float: right;
+	color: #ffffff;
+	font-size: 15px;
+	padding: 12px 15px;
+	font-weight: bold;
+	line-height: 18px;
+	margin-bottom: 0;
+	height: 60px !important;
+}
+.ct-ct .cl-ct:nth-child(3n + 2) {
+	margin-left: 2%;
+	margin-right: 2%;
+}
+/*Gia Sư Dạy Kèm Tại Nhà*/
+.content-three {
+	width: 100%;
+	position: relative;
+	padding: 100px 0px 100px 0px;
+	float: left;
+}
+.nd-ct {
+	width: 80%;
+	margin: 0 auto;
+}
+.ct-tow-h {
+	width: 100%;
+	float: left;
+	z-index: 2;
+	padding: 0px 0px 25px 25px;
+}
+.ct-tow-h h2 {
+	width: 100%;
+	float: left;
+	background: url(/gia-su/img/icon5.png) no-repeat;
+	background-position: top left;
+	padding-top: 10px;
+	font-weight: 500;
+	font-size: 28px;
+	line-height: 33px;
+	text-transform: capitalize;
+	color: #182b49;
+	margin-bottom: 0;
+	padding-bottom: 5px;
+}
+.ct-tow-h .p-ct-nd {
+	font-size: 15px;
+	width: 80%;
+	line-height: 1.5em;
+	float: left;
+}
+.content-three .ct-tow-h .p-ct-nd p {
+	margin-bottom: 0;
+	width: 100%;
+	float: left;
+	font-size: 16px;
+	line-height: 19px;
+	color: #666666;
+}
+.ct-tow-h .p-ct-ad {
+	width: 20%;
+	float: left;
+	text-align: right;
+	padding-right: 27px;
+}
+.ct-tow-h .p-ct-ad p a {
+	width: 100%;
+	text-align: right;
+	background: url(/gia-su/img/icon6.png) no-repeat;
+	background-position: right;
+	text-decoration: none;
+	color: #182b49;
+	padding-right: 20px;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 19px;
+}
+.next {
+	position: relative;
+}
+.pre {
+	position: relative;
+}
+.slider-gs {
+	width: 100%;
+	position: relative;
+	float: left;
+}
+.sl-sh,
+.sl-gs {
+	border-radius: 0px 0px 10px 10px;
+	padding: 0 15px 0 15px;
+	position: relative;
+	overflow: visible;
+	outline: 0;
+}
+.slick-next:before {
+	content: '';
+	position: absolute;
+	float: left;
+	top: 86px;
+	right: -21px;
+	background: url(/gia-su/img/pre.png) no-repeat;
+	-webkit-transform: rotate(-180deg);
+	-ms-transform: rotate(-180deg);
+	transform: rotate(-180deg);
+	width: 54px;
+	height: 54px;
+}
+.sl-sh .hov,
+.sl-gs .hov {
+	width: 100%;
+	float: left;
+}
+.sl-sh img,
+.sl-gs img {
+	width: 100%;
+	height: 241px;
+	border-radius: 5px 5px 0px 0px;
+	object-fit: cover;
+}
+.gt h3,
+.gt h3 a {
+	width: 100%;
+	text-align: center;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 19px;
+	color: #182b49;
+	margin-bottom: 0;
+}
+.sl-gt {
+	width: 100%;
+}
+.gt .sl-gt p {
+	width: 100%;
+	margin-top: 8px;
+	text-align: center;
+	margin-bottom: 0;
+	font-size: 16px;
+	display: -webkit-box;
+	-webkit-line-clamp: 1;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+	-o-text-overflow: ellipsis;
+	text-overflow: ellipsis;
+}
+.sl-gt span {
+	margin: 0px 5px;
+}
+.gt .gt-pri {
+	margin-top: 8px;
+	text-align: center;
+	margin-bottom: 0;
+	color: #fe4b4b;
+	font-weight: 500;
+	font-size: 15px;
+	line-height: 18px;
+}
+.gt .gt-pri {
+	margin-top: 8px;
+	text-align: center;
+	margin-bottom: 0;
+	color: #fe4b4b;
+	font-weight: 500;
+	font-size: 15px;
+	line-height: 18px;
+}
+.tt-lh {
+	box-shadow: 4px 4px 10px rgb(0 0 0 / 15%);
+	width: 100%;
+	border-radius: 10px;
+	background: #fff;
+	position: absolute;
+	top: 0;
+	left: 0;
+	padding: 20px 5px;
+	display: none;
+	z-index: 1;
+}
+.tt-lh h4 {
+	width: 100%;
+	border-bottom: 1px solid #ebebeb;
+	padding-bottom: 7px;
+	margin-bottom: 8px;
+	text-align: left;
+}
+.tt-lh h4 a {
+	width: 100%;
+	color: #182b49;
+	font-size: 22px;
+	text-decoration: none;
+}
+.tt-lh .lh {
+	width: 100%;
+	margin-left: 10px;
+}
+.lh .mar-one {
+	width: 100%;
+	background: url(/gia-su/img/lp.png) no-repeat;
+	background-position: left;
+	padding-left: 25px;
+}
+.lh p {
+	margin-bottom: unset;
+}
+.lh .mar-three {
+	background: url(/gia-su/img/work.png) no-repeat;
+	background-position: left;
+}
+.lh .mar-four {
+	background: url(/gia-su/img/ld.png) no-repeat;
+	background-position: left;
+}
+.gs-sld .lh .mar-one,
+.lh .mar-three,
+.lh .mar-four {
+	width: 100%;
+	float: left;
+	padding-left: 25px;
+	position: relative;
+}
+.day {
+	width: 100%;
+	height: auto;
+}
+.sl-sh .h_chon_ngay_dh {
+	width: 26%;
+	display: block;
+	float: left;
+	padding-left: 18px;
+}
+.h_chon_ngay_dh input {
+	width: 100%;
+	position: relative;
+	height: 25px;
+	border: none;
+	background: #fff;
+	text-align: left;
+	margin-left: 0;
+	padding-left: 0;
+	line-height: 25px;
+	font-size: 15px;
+	font-weight: bold;
+	padding-right: 0;
+	margin: 4px;
+	margin-left: 0;
+}
+.sl-sh .wrapper-dh {
+	width: 81%;
+	float: left;
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+.container_dh:nth-child(2n + 1) {
+	margin-right: 0;
+	margin-left: 0;
+}
+.container_dh {
+	width: 100%;
+	display: inline;
+	float: left;
+	padding-right: 0;
+	padding-bottom: 5px !important;
+}
+.container_dh .option_item {
+	position: relative;
+	width: 11.5%;
+	height: 25px;
+	margin: 2px;
+	margin-left: 0;
+}
+.wrapper-dh .option_item .option_inner .name {
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	line-height: 25px;
+	font-size: 14px;
+}
+.wrapper-dh .option_item .option_inner {
+	background: #fafafa;
+	text-align: center;
+	cursor: pointer;
+	height: 25px;
+	display: block;
+	position: relative;
+	color: #646464;
+	border-radius: 8px;
+	line-height: 25px;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	border: 1px solid #d9d9d9;
+}
+.option_inner.instagram.active_cal {
+	background: #fca927;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 25px;
+	color: white;
+	text-align: center;
+	border-radius: 8px;
+	border: 1px solid #d9d9d9;
+}
+.tt-ad {
+	border-top: 1px solid #ebebeb;
+	padding-top: 10px;
+	width: 100%;
+	float: left;
+}
+.tt-ad p {
+	font-size: 15px;
+	width: 100%;
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+	-o-text-overflow: ellipsis;
+	text-overflow: ellipsis;
+}
+.sl-sh .bt-dn,
+.sl-gs button {
+	width: 100%;
+	float: left;
+	border-radius: 10px;
+	background: #f8971c;
+	border: none;
+	height: 40px;
+	cursor: pointer;
+	outline: 0;
+	color: #fff;
+	padding-left: 10px;
+	position: relative;
+}
+.sl-sh .bt-dn::before {
+	content: '';
+	background: url(/gia-su/img/icon8.svg) no-repeat;
+	background-position: left;
+	display: inline-block;
+	width: 15px;
+	height: 16px;
+	vertical-align: middle;
+}
+.b-nd-ct .slick-next:before {
+	top: -115px;
+}
+
+.slick-next:before {
+	content: '';
+	position: absolute;
+	float: left;
+	top: 86px;
+	right: -21px;
+	background: url(/gia-su/img/pre.png) no-repeat;
+	-webkit-transform: rotate(-180deg);
+	-ms-transform: rotate(-180deg);
+	transform: rotate(-180deg);
+	width: 54px;
+	height: 54px;
+}
+.gt {
+	padding: 10px 15px 18px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	width: 100%;
+	-webkit-box-shadow: 4px 4px 10px rgb(0 0 0 / 5%);
+	box-shadow: 4px 4px 10px rgb(0 0 0 / 5%);
+	border-radius: 0px 0px 10px 10px;
+	background: #ffffff;
+	border-left: 1px solid #efefef;
+	border-right: 1px solid #efefef;
+	border-bottom: 1px solid #efefef;
+	min-height: 124px;
+}
+.sl-sh .hov:hover .tt-lh,
+.sl-gs .hov:hover .tt-lh {
+	display: block;
+	opacity: 1;
+}
+/*Gia Sư Online*/
+.content-three.content_gs_online {
+	padding-top: 0px;
+	width: 100%;
+	position: relative;
+	padding: 100px 0px 100px 0px;
+	float: left;
+}
+.content-three .nd-ct {
+	width: 80%;
+	margin: 0 auto;
+}
+.content-three .ct-tow-h {
+	padding: 0px 0px 25px 25px;
+	width: 100%;
+	float: left;
+	z-index: 2;
+}
+.gs_online {
+	width: 100%;
+	float: left;
+}
+.gs_online .sl-sh {
+	width: 25%;
+	float: left;
+	margin-bottom: 30px;
+}
+.ct-ic-one {
+	background: url(/gia-su/img/Vector1.png) no-repeat;
+	background-position: left;
+}
+.ct-ic-tow {
+	background: url(/gia-su/img/Vector2.png) no-repeat;
+	background-position: left;
+	cursor: pointer;
+}
+.content-three .day {
+	display: flex;
+}
+.content-three .sl-sh .h_chon_ngay_dh {
+	display: flex;
+	width: 15%;
+	flex-direction: column;
+	padding: 0;
+	margin: 0;
+}
+.content-three .sl-sh .wrapper-dh {
+	display: flex;
+	width: 85%;
+	margin: 0 !important;
+	padding: 0 !important;
+	flex-direction: column;
+}
+.content-three .container_dh {
+	display: flex;
+	width: 100%;
+}
+.content-three .h_chon_ngay_dh input {
+	margin: 0 !important;
+}
+.content-three .container_dh .option_item {
+	width: 100%;
+}
+
+@media (max-width: 1024px) {
+	.three-h .container {
+		padding: 0;
+	}
+	.exp_first {
+		padding-right: 8px;
+	}
+	.exp-img-face {
+		width: 100%;
+		border-radius: 5px;
+		height: 93px;
+	}
+	.wp_bd_cl {
+		padding: 13px 15px;
+	}
+	.exp-img-one {
+		width: 18%;
+		float: left;
+		text-align: center;
+	}
+	.exp-img-one img {
+		width: 35px;
+		height: 39px;
+	}
+	.exp-ct {
+		width: 82%;
+		float: left;
+	}
+	.exp-ct a {
+		font-family: Roboto;
+		font-weight: 500;
+		font-size: 14px;
+		width: 100%;
+		line-height: 16px;
+		letter-spacing: 0.3px;
+		text-transform: capitalize;
+		color: #444444;
+	}
+	.exp-one .exp-ct a::before {
+		content: '';
+		position: absolute;
+		float: left;
+		background: url(/gia-su/img/icon6.png) no-repeat;
+		top: 15px;
+		right: 20px;
+		width: 12px;
+		height: 10px;
+	}
+	.exp-ct p {
+		width: 100%;
+		font-weight: normal;
+		font-size: 12px;
+		line-height: 21px;
+		letter-spacing: 0.3px;
+		color: #969696;
+	}
+	.exp-tow .exp-ct a::before {
+		content: '';
+		position: absolute;
+		float: left;
+		background: url(/gia-su/img/icon6.png) no-repeat;
+		top: 15px;
+		right: 28px;
+		width: 12px;
+		height: 10px;
+	}
+	.exp-three .exp-ct a::before {
+		content: '';
+		position: absolute;
+		float: left;
+		background: url(/gia-su/img/icon6.png) no-repeat;
+		top: 15px;
+		right: 63px;
+		width: 12px;
+		height: 10px;
+	}
+	.ct-lt-one {
+		width: 70% !important;
+		float: left;
+		padding-right: 0;
+	}
+	.ct-h {
+		width: 100%;
+		padding-right: 0px;
+	}
+	.ct-h h2 {
+		font-size: 20px;
+		font-family: roboto;
+		line-height: 38px;
+		text-align: justify;
+		width: 100%;
+		padding-bottom: 20px;
+		font-weight: 500;
+		margin-bottom: 0;
+	}
+	.ct-h p {
+		font-size: 14px;
+		font-family: roboto;
+		line-height: 25px;
+		width: 100%;
+		text-align: left;
+	}
+	.ct-h-qt .ct-qt {
+		text-align: center;
+		width: 100%;
+		font-size: 28px;
+	}
+	.ct-h-qt .ct-nd {
+		text-align: center;
+		width: 100%;
+		font-size: 14px;
+	}
+	.ct-lt-tow {
+		width: 30% !important;
+		float: right;
+		padding-left: 0;
+	}
+	.ct-img {
+		width: 100%;
+		float: right;
+		text-align: right;
+	}
+	.ct-img img {
+		width: 280px;
+		height: 241px;
+	}
+	/*GIA SƯ MỚI NHẤT*/
+	.ct-tow-h h2 {
+		font-size: 20px;
+	}
+	.ct-tow-h .p-ct-ad {
+		padding-right: 0;
+	}
+	.ct-ct .cl-ct {
+		background: #ffffff;
+		border-radius: 15px 15px 15px 15px;
+		margin-bottom: 25px;
+		width: 49%;
+		float: left;
+		padding: 0;
+		-webkit-box-shadow: 0 0 1px 0 #1f1f1f;
+		box-shadow: 0 0 1px 0 #1f1f1f;
+		overflow: auto;
+	}
+	.ct-ct .cl-ct:nth-child(3n + 2) {
+		margin-left: 0%;
+		margin-right: 0%;
+	}
+	.ct-ct .cl-ct:nth-child(2n) {
+		margin-left: 2%;
+	}
+	/*gia sư tại nhà*/
+	.content-three {
+		width: 100%;
+		float: left;
+		padding-top: 50px;
+		position: relative;
+		padding-bottom: 70px;
+	}
+	.nd-ct {
+		width: 90%;
+		margin: 0 auto;
+	}
+	.content-three .ct-tow-h {
+		padding: 0px 0px 25px 0px;
+	}
+	.ct-tow-h h2 {
+		font-size: 20px;
+	}
+	.next {
+		position: absolute;
+		top: 130px;
+		left: -16px;
+		width: 9%;
+		z-index: 1;
+	}
+	.slick-next:before {
+		content: '';
+		position: absolute;
+		float: left;
+		top: -105px !important;
+		right: -21px;
+		background: url(/gia-su/img/pre.png) no-repeat;
+		-webkit-transform: rotate(-180deg);
+		-ms-transform: rotate(-180deg);
+		transform: rotate(-180deg);
+		width: 54px;
+		height: 54px;
+	}
+	.pre {
+		position: absolute;
+		top: 130px;
+		right: 25px;
+		width: 9%;
+		z-index: 1;
+	}
+	.slick-next:before {
+		right: -15px;
+	}
+	.sl-sh:hover .tt-lh,
+	.sl-gs:hover .tt-lh {
+		padding: 10px;
+		width: 320px;
+		left: -10px;
+	}
+	/*gia sư online*/
+	.gs_online .sl-sh {
+		margin-left: 0px;
+		width: 50%;
+	}
+	.gt {
+		background: #ffffff;
+		-webkit-box-shadow: 4px 4px 20px rgb(0 0 0 / 10%);
+		box-shadow: 4px 4px 20px rgb(0 0 0 / 10%);
+		border-radius: 0px 0px 10px 10px;
+		margin-bottom: 10px;
+		width: 100%;
+	}
+	.tt-lh {
+		display: none;
+		padding: 20px 25px;
+	}
+	.gs_online .hov {
+		position: relative;
+	}
+	.gs_online .tt-lh {
+		width: 100% !important;
+		left: 0 !important;
+		bottom: 11px !important;
+	}
+	.gs_online .gt {
+		max-height: 125px;
+	}
+}
+@media screen and (max-width: 768px) {
+	.ct-bt .ct-bt-co {
+		padding: 5px 10px;
+		height: 60px;
+		line-height: 20px;
+	}
+	.ct-bt .ct-bt-pr {
+		line-height: 20px;
+	}
+}
+@media (max-width: 480px) {
+	.header {
+		background: #6f90b5;
+	}
+	.three-h {
+		/* margin-top: 30px; */
+		background: #fff;
+		padding-bottom: 400px;
+		width: 100%;
+		float: left;
+		height: auto;
+		/* position: relative; */
+	}
+	.three-h .container {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	.exp-img-face {
+		width: 100%;
+		height: 107px;
+		border-radius: 5px;
+	}
+	.exp-img-one img {
+		width: 60px;
+		height: 66px;
+	}
+	.exp-ct a {
+		font-weight: 500;
+		font-size: 16px;
+		width: 100%;
+		line-height: 16px;
+		letter-spacing: 0.3px;
+		text-transform: capitalize;
+		color: #444444;
+	}
+	.exp-ct p {
+		width: 100%;
+		font-weight: normal;
+		font-size: 14px;
+		line-height: 21px;
+		letter-spacing: 0.3px;
+		color: #969696;
+	}
+	.content-one {
+		display: none;
+	}
+	/*GIA SƯ MỚI NHẤT*/
+	.content-tow {
+		width: 100%;
+		float: left;
+		background: #01003d;
+	}
+	.content-tow .container {
+		padding-right: 0;
+		padding-left: 0;
+	}
+	.ctt {
+		/* margin: 0 !important; */
+		margin-top: -160px;
+	}
+	.ct-tow-h {
+		padding-left: 30px;
+		padding-right: 30px;
+		padding-bottom: 0;
+	}
+	.ct-tow-h h2 {
+		font-size: 28px;
+	}
+	.ct-tow-h .p-ct-nd {
+		width: 100%;
+		float: left;
+	}
+	.ct-tow-h .p-ct-nd p {
+		padding-bottom: 10px;
+		margin-bottom: 5px;
+	}
+	.ct-tow-h .p-ct-ad {
+		margin-bottom: 20px;
+		width: 100%;
+		float: left;
+		text-align: left;
+	}
+	.ct-ct .cl-ct:nth-child(2n + 1) {
+		margin-right: 0%;
+		margin-left: 0%;
+	}
+	.cl-ct img {
+		max-width: 100%;
+	}
+	.cl-ct .ct-ct-p {
+		width: 93%;
+		float: left;
+		padding: 20px 0px 20px 0px;
+		font-size: 15px;
+		margin-bottom: 0;
+		margin: 0px 15px 0px 15px;
+		border-top: 1px dashed #dddddd;
+		line-height: 24px;
+	}
+	.ct-ct .cl-ct {
+		background: #ffffff;
+		border-radius: 15px 15px 15px 15px;
+		margin-bottom: 25px;
+		width: 100%;
+		float: left;
+		padding: 0;
+	}
+	.ct-ct .cl-ct:nth-child(even) {
+		margin-right: 0%;
+		margin-left: 0%;
+	}
+	.ct-ct {
+		padding: 0 30px;
+	}
+	/*Gia Sư Dạy Kèm Tại Nhà*/
+	.content-three {
+		width: 100%;
+		float: left;
+		padding-top: 70px;
+		position: relative;
+		padding-left: 25px;
+		padding-right: 25px;
+	}
+	.ct-tow-h h2 {
+		font-size: 28px;
+	}
+	.ct-tow-h .p-ct-nd {
+		width: 100%;
+		float: left;
+	}
+	.ct-tow-h .p-ct-nd p {
+		padding-bottom: 10px;
+	}
+	.ct-tow-h .p-ct-ad {
+		margin-bottom: 20px;
+		width: 100%;
+		float: left;
+		text-align: left;
+	}
+	/*gia sư online*/
+	.content-three {
+		width: 100%;
+		float: left;
+		position: relative;
+		padding-left: 25px;
+		padding-right: 25px;
+	}
+	.ct-tow-h h2 {
+		font-size: 28px;
+	}
+	.ct-tow-h .p-ct-nd {
+		width: 100%;
+		float: left;
+	}
+	.ct-tow-h .p-ct-nd p {
+		padding-bottom: 10px;
+	}
+	.ct-tow-h .p-ct-ad {
+		margin-bottom: 20px;
+		width: 100%;
+		float: left;
+		text-align: left;
+	}
+	.gs_online .sl-sh {
+		width: 100%;
+	}
+	.gt {
+		background: #ffffff;
+		border-bottom: 1px solid #efefef;
+		border-left: 1px solid #efefef;
+		border-right: 1px solid #efefef;
+		-webkit-box-sizing: border-box;
+		box-sizing: border-box;
+		-webkit-box-shadow: 4px 4px 10px rgb(0 0 0 / 5%);
+		box-shadow: 4px 4px 10px rgb(0 0 0 / 5%);
+		border-radius: 0px 0px 10px 10px;
+		width: 100%;
+		margin-left: 0;
+		margin-right: 0;
+	}
+	.sl-sh:hover .tt-lh {
+		left: 0px;
+		width: 100%;
+	}
+}
+@media screen and (max-width: 320px) {
+	.container_dh .option_item {
+		margin: 0;
+	}
+}
+.tt-ad {
+	min-height: 72px;
+}
+.modal {
+	display: none;
+}
+#key_city_lq1autocomplete-list div,
+#key_city_lq2autocomplete-list div,
+#key_lq2autocomplete-list div,
+#key_lq1autocomplete-list div {
+	cursor: pointer;
+}
+.sl-sh .bt-dn {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	column-gap: 5px;
+}
+.gs_online .gt-pri span,
+.gs_online .gt h3 {
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+	display: -webkit-box;
+}
+.gs_online .tt-lh .day {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 10px;
+}
+.gs_online .sl-sh .h_chon_ngay_dh {
+	display: flex;
+	flex-direction: column;
+	margin: 0;
+	width: 20%;
+	padding: 0;
+}
+.gs_online .sl-sh .wrapper-dh {
+	display: flex;
+	flex-direction: column;
+	padding: 0 !important;
+	justify-content: space-between;
+}
+.gs_online .container_dh {
+	display: flex !important;
+	justify-content: space-between;
+	padding: 0 !important;
+}
+@media screen and (max-width: 768px) {
+	.gs_online .sl-sh .h_chon_ngay_dh {
+		flex-direction: unset;
+	}
+	.content-three .sl-sh .h_chon_ngay_dh {
+		flex-wrap: unset;
+		justify-content: space-between;
+		width: 20%;
+	}
+	.content-three .h_chon_ngay_dh input {
+		flex: unset;
+	}
+	.content-three .container_dh {
+		padding: 0;
+	}
+	.gs_online .sl-sh .h_chon_ngay_dh {
+		flex-wrap: wrap;
+	}
+}

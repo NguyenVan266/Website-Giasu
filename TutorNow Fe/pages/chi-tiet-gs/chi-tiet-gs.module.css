@@ -1,0 +1,30 @@
+.modalConfirm {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	/* Các thuộc tính khác tùy chọn */
+}
+.buttonCancel {
+	padding: 12px 39px;
+	font-size: 14px;
+	line-height: 16px;
+	text-transform: uppercase;
+	color: #444444;
+	background: #ffffff;
+	border: 1px solid #b2b2b2;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	border-radius: 5px;
+	margin-right: 5px;
+}
+.buttonAcept {
+	padding: 11px 37px;
+	font-size: 14px;
+	line-height: 16px;
+	text-transform: uppercase;
+	color: #ffffff;
+	background: #4c5bd4;
+	border-radius: 5px;
+	border: none;
+}

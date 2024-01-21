@@ -1,0 +1,4630 @@
+{
+    "subject": [
+        {
+            "_id": "65583b97af34ffb6f0b99398",
+            "as_id": 108,
+            "as_name": "toán đại",
+            "as_alias": "toan-dai",
+            "as_parent": 1,
+            "ls_parent1": 209,
+            "ls_parent2": 210,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99396",
+            "as_id": 107,
+            "as_name": "toán cao cấp 2",
+            "as_alias": "toan-cao-cap-2",
+            "as_parent": 0,
+            "ls_parent1": 207,
+            "ls_parent2": 208,
+            "active_class": 0,
+            "active_teach": 1
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99394",
+            "as_id": 106,
+            "as_name": "toán rời rạc",
+            "as_alias": "toan-roi-rac",
+            "as_parent": 1,
+            "ls_parent1": 205,
+            "ls_parent2": 206,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99392",
+            "as_id": 105,
+            "as_name": "Luyện chữ đẹp",
+            "as_alias": "luyen-chu-dep",
+            "as_parent": 0,
+            "ls_parent1": 22,
+            "ls_parent2": 127,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99390",
+            "as_id": 104,
+            "as_name": "Dạy vẽ",
+            "as_alias": "day-ve",
+            "as_parent": 0,
+            "ls_parent1": 21,
+            "ls_parent2": 126,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b9938e",
+            "as_id": 103,
+            "as_name": "Mỹ thuật",
+            "as_alias": "my-thuat",
+            "as_parent": 0,
+            "ls_parent1": 32,
+            "ls_parent2": 137,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b9938c",
+            "as_id": 102,
+            "as_name": "Dạy piano",
+            "as_alias": "day-piano",
+            "as_parent": 0,
+            "ls_parent1": 24,
+            "ls_parent2": 129,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b9938a",
+            "as_id": 101,
+            "as_name": "Guitar",
+            "as_alias": "guitar",
+            "as_parent": 0,
+            "ls_parent1": 26,
+            "ls_parent2": 131,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99388",
+            "as_id": 100,
+            "as_name": "Dạy organ",
+            "as_alias": "day-organ",
+            "as_parent": 0,
+            "ls_parent1": 27,
+            "ls_parent2": 132,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99386",
+            "as_id": 99,
+            "as_name": "Ielts",
+            "as_alias": "ielts",
+            "as_parent": 0,
+            "ls_parent1": 34,
+            "ls_parent2": 139,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99384",
+            "as_id": 98,
+            "as_name": "Luyện thi đại học",
+            "as_alias": "luyen-thi-dai-hoc",
+            "as_parent": 0,
+            "ls_parent1": 35,
+            "ls_parent2": 140,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99382",
+            "as_id": 97,
+            "as_name": "Tiếng nga",
+            "as_alias": "tieng-nga",
+            "as_parent": 0,
+            "ls_parent1": 58,
+            "ls_parent2": 159,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99380",
+            "as_id": 96,
+            "as_name": "Dạy tiếng đài loan",
+            "as_alias": "day-tieng-dai-loan",
+            "as_parent": 0,
+            "ls_parent1": 92,
+            "ls_parent2": 189,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b9937e",
+            "as_id": 95,
+            "as_name": "Dạy võ",
+            "as_alias": "day-vo",
+            "as_parent": 0,
+            "ls_parent1": 46,
+            "ls_parent2": 149,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b9937c",
+            "as_id": 94,
+            "as_name": "Tin học",
+            "as_alias": "tin-hoc",
+            "as_parent": 0,
+            "ls_parent1": 38,
+            "ls_parent2": 143,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b9937a",
+            "as_id": 93,
+            "as_name": "Kế toán trưởng",
+            "as_alias": "ke-toan-truong",
+            "as_parent": 0,
+            "ls_parent1": 43,
+            "ls_parent2": 146,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99378",
+            "as_id": 92,
+            "as_name": "Song ngữ",
+            "as_alias": "song-ngu",
+            "as_parent": 0,
+            "ls_parent1": 55,
+            "ls_parent2": 156,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99376",
+            "as_id": 91,
+            "as_name": "Dạy chương trình quốc tế",
+            "as_alias": "day-chuong-trinh-quoc-te",
+            "as_parent": 0,
+            "ls_parent1": 59,
+            "ls_parent2": 0,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99374",
+            "as_id": 90,
+            "as_name": "Tiếng anh cho người đi làm",
+            "as_alias": "tieng-anh-cho-nguoi-di-lam",
+            "as_parent": 8,
+            "ls_parent1": 36,
+            "ls_parent2": 141,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99372",
+            "as_id": 89,
+            "as_name": "Toán cao cấp",
+            "as_alias": "toan-cao-cap",
+            "as_parent": 1,
+            "ls_parent1": 56,
+            "ls_parent2": 157,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99370",
+            "as_id": 88,
+            "as_name": "Tiếng anh cho người mất gốc",
+            "as_alias": "tieng-anh-cho-nguoi-mat-goc",
+            "as_parent": 8,
+            "ls_parent1": 37,
+            "ls_parent2": 142,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b9936e",
+            "as_id": 87,
+            "as_name": "Toán online",
+            "as_alias": "toan-online",
+            "as_parent": 1,
+            "ls_parent1": 39,
+            "ls_parent2": 144,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b9936c",
+            "as_id": 86,
+            "as_name": " Tiếng anh Giao tiếp",
+            "as_alias": "tieng-anh-giao-tiep",
+            "as_parent": 8,
+            "ls_parent1": 44,
+            "ls_parent2": 147,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b9936a",
+            "as_id": 85,
+            "as_name": "Tiếng anh cho người lớn",
+            "as_alias": "tieng-anh-cho-nguoi-lon",
+            "as_parent": 8,
+            "ls_parent1": 40,
+            "ls_parent2": 145,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99368",
+            "as_id": 84,
+            "as_name": "Toán bằng tiếng anh",
+            "as_alias": "toan-bang-tieng-anh",
+            "as_parent": 1,
+            "ls_parent1": 63,
+            "ls_parent2": 163,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99366",
+            "as_id": 83,
+            "as_name": "Tiếng anh cho trẻ em",
+            "as_alias": "tieng-anh-cho-tre-em",
+            "as_parent": 8,
+            "ls_parent1": 84,
+            "ls_parent2": 181,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99364",
+            "as_id": 82,
+            "as_name": "Tiếng việt lớp 5",
+            "as_alias": "tieng-viet-lop-5",
+            "as_parent": 46,
+            "ls_parent1": 99,
+            "ls_parent2": 195,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99362",
+            "as_id": 81,
+            "as_name": "Tiếng việt lớp 4",
+            "as_alias": "tieng-viet-lop-4",
+            "as_parent": 46,
+            "ls_parent1": 98,
+            "ls_parent2": 0,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99360",
+            "as_id": 80,
+            "as_name": "Tiếng việt lớp 2",
+            "as_alias": "tieng-viet-lop-2",
+            "as_parent": 46,
+            "ls_parent1": 97,
+            "ls_parent2": 193,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b9935e",
+            "as_id": 79,
+            "as_name": "Tiếng việt lớp 1",
+            "as_alias": "tieng-viet-lop-1",
+            "as_parent": 46,
+            "ls_parent1": 95,
+            "ls_parent2": 192,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b9935c",
+            "as_id": 78,
+            "as_name": "Tất cả môn học",
+            "as_alias": "tat-ca-mon-hoc",
+            "as_parent": 0,
+            "ls_parent1": 0,
+            "ls_parent2": 0,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b9935a",
+            "as_id": 77,
+            "as_name": "Văn lớp 12",
+            "as_alias": "van-lop-12",
+            "as_parent": 4,
+            "ls_parent1": 81,
+            "ls_parent2": 178,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99358",
+            "as_id": 76,
+            "as_name": "Văn lớp 11",
+            "as_alias": "van-lop-11",
+            "as_parent": 4,
+            "ls_parent1": 94,
+            "ls_parent2": 191,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99356",
+            "as_id": 75,
+            "as_name": "Văn lớp 10",
+            "as_alias": "van-lop-10",
+            "as_parent": 4,
+            "ls_parent1": 93,
+            "ls_parent2": 190,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99354",
+            "as_id": 74,
+            "as_name": "Văn lớp 9",
+            "as_alias": "van-lop-9",
+            "as_parent": 4,
+            "ls_parent1": 64,
+            "ls_parent2": 164,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99352",
+            "as_id": 73,
+            "as_name": "Văn lớp 8",
+            "as_alias": "van-lop-8",
+            "as_parent": 4,
+            "ls_parent1": 80,
+            "ls_parent2": 177,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99350",
+            "as_id": 72,
+            "as_name": "Văn lớp 7",
+            "as_alias": "van-lop-7",
+            "as_parent": 4,
+            "ls_parent1": 79,
+            "ls_parent2": 176,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b9934e",
+            "as_id": 71,
+            "as_name": "Văn lớp 6",
+            "as_alias": "van-lop-6",
+            "as_parent": 4,
+            "ls_parent1": 78,
+            "ls_parent2": 175,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b9934c",
+            "as_id": 70,
+            "as_name": "Tiếng anh lớp 12",
+            "as_alias": "tieng-anh-lop-12",
+            "as_parent": 8,
+            "ls_parent1": 71,
+            "ls_parent2": 169,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b9934a",
+            "as_id": 69,
+            "as_name": "Tiếng anh lớp 11",
+            "as_alias": "tieng-anh-lop-11",
+            "as_parent": 8,
+            "ls_parent1": 74,
+            "ls_parent2": 172,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99348",
+            "as_id": 68,
+            "as_name": "Tiếng anh lớp 10",
+            "as_alias": "tieng-anh-lop-10",
+            "as_parent": 8,
+            "ls_parent1": 90,
+            "ls_parent2": 187,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99346",
+            "as_id": 67,
+            "as_name": "Tiếng anh lớp 9",
+            "as_alias": "tieng-anh-lop-9",
+            "as_parent": 8,
+            "ls_parent1": 54,
+            "ls_parent2": 155,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99344",
+            "as_id": 66,
+            "as_name": "Tiếng anh lớp 8",
+            "as_alias": "tieng-anh-lop-8",
+            "as_parent": 8,
+            "ls_parent1": 89,
+            "ls_parent2": 186,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99342",
+            "as_id": 65,
+            "as_name": "Tiếng anh lớp 7",
+            "as_alias": "tieng-anh-lop-7",
+            "as_parent": 8,
+            "ls_parent1": 57,
+            "ls_parent2": 158,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99340",
+            "as_id": 64,
+            "as_name": "Tiếng anh lớp 6",
+            "as_alias": "tieng-anh-lop-6",
+            "as_parent": 8,
+            "ls_parent1": 73,
+            "ls_parent2": 171,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b9933e",
+            "as_id": 63,
+            "as_name": "Tiếng anh lớp 5",
+            "as_alias": "tieng-anh-lop-5",
+            "as_parent": 8,
+            "ls_parent1": 88,
+            "ls_parent2": 185,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b9933c",
+            "as_id": 62,
+            "as_name": "Tiếng anh lớp 4",
+            "as_alias": "tieng-anh-lop-4",
+            "as_parent": 8,
+            "ls_parent1": 87,
+            "ls_parent2": 184,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b9933a",
+            "as_id": 61,
+            "as_name": "Tiếng anh lớp 3",
+            "as_alias": "tieng-anh-lop-3",
+            "as_parent": 8,
+            "ls_parent1": 86,
+            "ls_parent2": 183,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99338",
+            "as_id": 60,
+            "as_name": "Tiếng anh lớp 2",
+            "as_alias": "tieng-anh-lop-2",
+            "as_parent": 8,
+            "ls_parent1": 85,
+            "ls_parent2": 182,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99336",
+            "as_id": 59,
+            "as_name": "Tiếng anh lớp 1",
+            "as_alias": "tieng-anh-lop-1",
+            "as_parent": 8,
+            "ls_parent1": 72,
+            "ls_parent2": 170,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99334",
+            "as_id": 58,
+            "as_name": "Hóa lớp 12",
+            "as_alias": "hoa-lop-12",
+            "as_parent": 3,
+            "ls_parent1": 83,
+            "ls_parent2": 180,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99332",
+            "as_id": 57,
+            "as_name": "Hóa lớp 11",
+            "as_alias": "hoa-lop-11",
+            "as_parent": 3,
+            "ls_parent1": 66,
+            "ls_parent2": 166,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99330",
+            "as_id": 56,
+            "as_name": "Hóa lớp 10",
+            "as_alias": "hoa-lop-10",
+            "as_parent": 3,
+            "ls_parent1": 82,
+            "ls_parent2": 179,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b9932e",
+            "as_id": 55,
+            "as_name": "Hóa lớp 9",
+            "as_alias": "hoa-lop-9",
+            "as_parent": 3,
+            "ls_parent1": 65,
+            "ls_parent2": 165,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b9932c",
+            "as_id": 54,
+            "as_name": "Hóa lớp 8",
+            "as_alias": "hoa-lop-8",
+            "as_parent": 3,
+            "ls_parent1": 70,
+            "ls_parent2": 168,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b9932a",
+            "as_id": 53,
+            "as_name": "Lý lớp 12",
+            "as_alias": "ly-lop-12",
+            "as_parent": 2,
+            "ls_parent1": 91,
+            "ls_parent2": 188,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99328",
+            "as_id": 52,
+            "as_name": "Lý lớp 11",
+            "as_alias": "ly-lop-11",
+            "as_parent": 2,
+            "ls_parent1": 105,
+            "ls_parent2": 201,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99326",
+            "as_id": 51,
+            "as_name": "Lý lớp 10",
+            "as_alias": "ly-lop-10",
+            "as_parent": 2,
+            "ls_parent1": 104,
+            "ls_parent2": 200,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99324",
+            "as_id": 50,
+            "as_name": "Lý lớp 9",
+            "as_alias": "ly-lop-9",
+            "as_parent": 2,
+            "ls_parent1": 103,
+            "ls_parent2": 199,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99322",
+            "as_id": 48,
+            "as_name": "Lý lớp 8",
+            "as_alias": "ly-lop-8",
+            "as_parent": 2,
+            "ls_parent1": 102,
+            "ls_parent2": 198,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b99320",
+            "as_id": 47,
+            "as_name": "Vẽ",
+            "as_alias": "ve",
+            "as_parent": 0,
+            "ls_parent1": 21,
+            "ls_parent2": 126,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b97af34ffb6f0b9931e",
+            "as_id": 46,
+            "as_name": "Tiếng Việt",
+            "as_alias": "tieng-viet",
+            "as_parent": 0,
+            "ls_parent1": 15,
+            "ls_parent2": 120,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b96af34ffb6f0b9931c",
+            "as_id": 45,
+            "as_name": "Lý lớp 7",
+            "as_alias": "ly-lop-7",
+            "as_parent": 2,
+            "ls_parent1": 101,
+            "ls_parent2": 197,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b96af34ffb6f0b9931a",
+            "as_id": 44,
+            "as_name": "Lý lớp 6",
+            "as_alias": "ly-lop-6",
+            "as_parent": 2,
+            "ls_parent1": 100,
+            "ls_parent2": 196,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b96af34ffb6f0b99318",
+            "as_id": 36,
+            "as_name": "Toán lớp 12",
+            "as_alias": "toan-lop-12",
+            "as_parent": 1,
+            "ls_parent1": 53,
+            "ls_parent2": 154,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b96af34ffb6f0b99316",
+            "as_id": 35,
+            "as_name": "Toán lớp 11",
+            "as_alias": "toan-lop-11",
+            "as_parent": 1,
+            "ls_parent1": 49,
+            "ls_parent2": 152,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b96af34ffb6f0b99314",
+            "as_id": 34,
+            "as_name": "Toán lớp 10",
+            "as_alias": "toan-lop-10",
+            "as_parent": 1,
+            "ls_parent1": 62,
+            "ls_parent2": 162,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b96af34ffb6f0b99312",
+            "as_id": 33,
+            "as_name": "Toán lớp 9",
+            "as_alias": "toan-lop-9",
+            "as_parent": 1,
+            "ls_parent1": 50,
+            "ls_parent2": 151,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b96af34ffb6f0b99310",
+            "as_id": 32,
+            "as_name": "Toán lớp 8",
+            "as_alias": "toan-lop-8",
+            "as_parent": 1,
+            "ls_parent1": 47,
+            "ls_parent2": 150,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b96af34ffb6f0b9930e",
+            "as_id": 31,
+            "as_name": "Toán lớp 7",
+            "as_alias": "toan-lop-7",
+            "as_parent": 1,
+            "ls_parent1": 52,
+            "ls_parent2": 153,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b96af34ffb6f0b9930c",
+            "as_id": 30,
+            "as_name": "Toán lớp 6",
+            "as_alias": "toan-lop-6",
+            "as_parent": 1,
+            "ls_parent1": 45,
+            "ls_parent2": 148,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b96af34ffb6f0b9930a",
+            "as_id": 29,
+            "as_name": "Toán lớp 5",
+            "as_alias": "toan-lop-5",
+            "as_parent": 1,
+            "ls_parent1": 61,
+            "ls_parent2": 161,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b96af34ffb6f0b99308",
+            "as_id": 28,
+            "as_name": "Toán lớp 4",
+            "as_alias": "toan-lop-4",
+            "as_parent": 1,
+            "ls_parent1": 60,
+            "ls_parent2": 160,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b96af34ffb6f0b99306",
+            "as_id": 27,
+            "as_name": "Toán lớp 3",
+            "as_alias": "toan-lop-3",
+            "as_parent": 1,
+            "ls_parent1": 68,
+            "ls_parent2": 167,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b96af34ffb6f0b99304",
+            "as_id": 26,
+            "as_name": "Toán lớp 2",
+            "as_alias": "toan-lop-2",
+            "as_parent": 1,
+            "ls_parent1": 77,
+            "ls_parent2": 174,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b96af34ffb6f0b99302",
+            "as_id": 25,
+            "as_name": "Toán lớp 1",
+            "as_alias": "toan-lop-1",
+            "as_parent": 1,
+            "ls_parent1": 76,
+            "ls_parent2": 173,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b96af34ffb6f0b99300",
+            "as_id": 24,
+            "as_name": "Toán cấp 3",
+            "as_alias": "toan-cap-3",
+            "as_parent": 1,
+            "ls_parent1": 0,
+            "ls_parent2": 0,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b96af34ffb6f0b992fe",
+            "as_id": 23,
+            "as_name": "Toán cấp 2",
+            "as_alias": "toan-cap-2",
+            "as_parent": 1,
+            "ls_parent1": 0,
+            "ls_parent2": 0,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b96af34ffb6f0b992fc",
+            "as_id": 22,
+            "as_name": "Toán cấp 1",
+            "as_alias": "toan-cap-1",
+            "as_parent": 1,
+            "ls_parent1": 0,
+            "ls_parent2": 0,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b96af34ffb6f0b992fa",
+            "as_id": 14,
+            "as_name": "Tiếng Trung",
+            "as_alias": "tieng-trung",
+            "as_parent": 0,
+            "ls_parent1": 23,
+            "ls_parent2": 128,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b96af34ffb6f0b992f8",
+            "as_id": 13,
+            "as_name": "Tiếng Pháp",
+            "as_alias": "tieng-phap",
+            "as_parent": 0,
+            "ls_parent1": 33,
+            "ls_parent2": 138,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b96af34ffb6f0b992f6",
+            "as_id": 12,
+            "as_name": "Tiếng Đức",
+            "as_alias": "tieng-duc",
+            "as_parent": 0,
+            "ls_parent1": 28,
+            "ls_parent2": 133,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b96af34ffb6f0b992f4",
+            "as_id": 10,
+            "as_name": "Tiếng Hàn",
+            "as_alias": "tieng-han",
+            "as_parent": 0,
+            "ls_parent1": 29,
+            "ls_parent2": 134,
+            "active_class": 0,
+            "active_teach": 1
+        },
+        {
+            "_id": "65583b96af34ffb6f0b992f2",
+            "as_id": 9,
+            "as_name": "Tiếng Nhật",
+            "as_alias": "tieng-nhat",
+            "as_parent": 0,
+            "ls_parent1": 30,
+            "ls_parent2": 135,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b96af34ffb6f0b992f0",
+            "as_id": 8,
+            "as_name": "Tiếng Anh",
+            "as_alias": "tieng-anh",
+            "as_parent": 0,
+            "ls_parent1": 25,
+            "ls_parent2": 130,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b96af34ffb6f0b992ee",
+            "as_id": 7,
+            "as_name": "Sinh",
+            "as_alias": "sinh",
+            "as_parent": 0,
+            "ls_parent1": 18,
+            "ls_parent2": 123,
+            "active_class": 0,
+            "active_teach": 0
+        },
+        {
+            "_id": "65583b96af34ffb6f0b992ec",
+            "as_id": 6,
+            "as_name": "Địa lý",
+            "as_alias": "dia-ly",
+            "as_parent": 0,
+            "ls_parent1": 20,
+            "ls_parent2": 125,
+            "active_class": 0,
+            "active_teach": 1
+        },
+        {
+            "_id": "65583b96af34ffb6f0b992ea",
+            "as_id": 5,
+            "as_name": "Lịch sử",
+            "as_alias": "lich-su",
+            "as_parent": 0,
+            "ls_parent1": 19,
+            "ls_parent2": 124,
+            "active_class": 0,
+            "active_teach": 1
+        },
+        {
+            "_id": "65583b96af34ffb6f0b992e8",
+            "as_id": 4,
+            "as_name": "Văn",
+            "as_alias": "van",
+            "as_parent": 0,
+            "ls_parent1": 13,
+            "ls_parent2": 118,
+            "active_class": 1,
+            "active_teach": 1
+        },
+        {
+            "_id": "65583b96af34ffb6f0b992e6",
+            "as_id": 3,
+            "as_name": "Hóa",
+            "as_alias": "hoa",
+            "as_parent": 0,
+            "ls_parent1": 16,
+            "ls_parent2": 121,
+            "active_class": 1,
+            "active_teach": 1
+        },
+        {
+            "_id": "65583b96af34ffb6f0b992e4",
+            "as_id": 2,
+            "as_name": "Lý",
+            "as_alias": "ly",
+            "as_parent": 0,
+            "ls_parent1": 17,
+            "ls_parent2": 122,
+            "active_class": 1,
+            "active_teach": 1
+        },
+        {
+            "_id": "65583b96af34ffb6f0b992e2",
+            "as_id": 1,
+            "as_name": "Toán",
+            "as_alias": "toan",
+            "as_parent": 0,
+            "ls_parent1": 14,
+            "ls_parent2": 119,
+            "active_class": 1,
+            "active_teach": 1
+        }
+    ],
+    "typeteach": [
+        {
+            "_id": "65583ba8af34ffb6f0b9939a",
+            "id": 1,
+            "nametype": "Sinh viên"
+        },
+        {
+            "_id": "65583ba8af34ffb6f0b9939c",
+            "id": 2,
+            "nametype": "Người đi làm"
+        },
+        {
+            "_id": "65583ba8af34ffb6f0b9939e",
+            "id": 3,
+            "nametype": "Giáo viên mầm non"
+        },
+        {
+            "_id": "65583ba8af34ffb6f0b993a0",
+            "id": 4,
+            "nametype": "Giáo viên cấp 1"
+        },
+        {
+            "_id": "65583ba8af34ffb6f0b993a2",
+            "id": 5,
+            "nametype": "Giáo viên cấp 2"
+        },
+        {
+            "_id": "65583ba8af34ffb6f0b993a4",
+            "id": 6,
+            "nametype": "Giáo viên cấp 3"
+        },
+        {
+            "_id": "65583ba8af34ffb6f0b993a6",
+            "id": 7,
+            "nametype": "Giảng viên đại học"
+        },
+        {
+            "_id": "65583ba8af34ffb6f0b993a8",
+            "id": 8,
+            "nametype": "Chuyên gia"
+        },
+        {
+            "_id": "65583ba8af34ffb6f0b993aa",
+            "id": 9,
+            "nametype": "Người nước ngoài"
+        },
+        {
+            "_id": "65583ba8af34ffb6f0b993ac",
+            "id": 10,
+            "nametype": "Học sinh"
+        },
+        {
+            "_id": "65583ba8af34ffb6f0b993ae",
+            "id": 11,
+            "nametype": "Không yêu cầu"
+        }
+    ],
+    "listClassTeach": [
+        {
+            "_id": "65583bd0af34ffb6f0b993b0",
+            "ct_id": 1,
+            "ct_name": "Lớp 1",
+            "ls_parent": 1
+        },
+        {
+            "_id": "65583bd0af34ffb6f0b993b2",
+            "ct_id": 2,
+            "ct_name": "Lớp 2",
+            "ls_parent": 2
+        },
+        {
+            "_id": "65583bd0af34ffb6f0b993b4",
+            "ct_id": 3,
+            "ct_name": "Lớp 3",
+            "ls_parent": 3
+        },
+        {
+            "_id": "65583bd0af34ffb6f0b993b6",
+            "ct_id": 4,
+            "ct_name": "Lớp 4",
+            "ls_parent": 4
+        },
+        {
+            "_id": "65583bd0af34ffb6f0b993b8",
+            "ct_id": 5,
+            "ct_name": "Lớp 5",
+            "ls_parent": 5
+        },
+        {
+            "_id": "65583bd0af34ffb6f0b993ba",
+            "ct_id": 6,
+            "ct_name": "Lớp 6",
+            "ls_parent": 6
+        },
+        {
+            "_id": "65583bd0af34ffb6f0b993bc",
+            "ct_id": 7,
+            "ct_name": "Lớp 7",
+            "ls_parent": 7
+        },
+        {
+            "_id": "65583bd0af34ffb6f0b993be",
+            "ct_id": 8,
+            "ct_name": "Lớp 8",
+            "ls_parent": 8
+        },
+        {
+            "_id": "65583bd0af34ffb6f0b993c0",
+            "ct_id": 9,
+            "ct_name": "Lớp 9",
+            "ls_parent": 9
+        },
+        {
+            "_id": "65583bd0af34ffb6f0b993c2",
+            "ct_id": 10,
+            "ct_name": "Lớp 10",
+            "ls_parent": 10
+        },
+        {
+            "_id": "65583bd0af34ffb6f0b993c4",
+            "ct_id": 11,
+            "ct_name": "Lớp 11",
+            "ls_parent": 11
+        },
+        {
+            "_id": "65583bd0af34ffb6f0b993c6",
+            "ct_id": 12,
+            "ct_name": "Lớp 12",
+            "ls_parent": 12
+        },
+        {
+            "_id": "65583bd0af34ffb6f0b993c8",
+            "ct_id": 13,
+            "ct_name": "Luyện thi đại học",
+            "ls_parent": 0
+        },
+        {
+            "_id": "65583bd0af34ffb6f0b993ca",
+            "ct_id": 14,
+            "ct_name": "Cấp 1",
+            "ls_parent": 0
+        },
+        {
+            "_id": "65583bd0af34ffb6f0b993cc",
+            "ct_id": 15,
+            "ct_name": "Cấp 2",
+            "ls_parent": 0
+        },
+        {
+            "_id": "65583bd0af34ffb6f0b993ce",
+            "ct_id": 16,
+            "ct_name": "Cấp 3",
+            "ls_parent": 0
+        }
+    ],
+    "listLevelClass": [
+        {
+            "_id": "65586b4d2bad2eb5e17ba490",
+            "level_class_id": 1,
+            "level_class_name": "Lớp 1",
+            "slug_class_name": "lop-1",
+            "level_parent_id": 1
+        },
+        {
+            "_id": "65586b4d2bad2eb5e17ba492",
+            "level_class_id": 2,
+            "level_class_name": "Lớp 2",
+            "slug_class_name": "lop-2",
+            "level_parent_id": 1
+        },
+        {
+            "_id": "65586b4d2bad2eb5e17ba494",
+            "level_class_id": 3,
+            "level_class_name": "Lớp 3",
+            "slug_class_name": "lop-3",
+            "level_parent_id": 1
+        },
+        {
+            "_id": "65586b4d2bad2eb5e17ba496",
+            "level_class_id": 4,
+            "level_class_name": "Lớp 4",
+            "slug_class_name": "lop-4",
+            "level_parent_id": 1
+        },
+        {
+            "_id": "65586b4d2bad2eb5e17ba498",
+            "level_class_id": 5,
+            "level_class_name": "Lớp 5",
+            "slug_class_name": "lop-5",
+            "level_parent_id": 1
+        },
+        {
+            "_id": "65586b4d2bad2eb5e17ba49a",
+            "level_class_id": 6,
+            "level_class_name": "Lớp 6",
+            "slug_class_name": "lop-6",
+            "level_parent_id": 2
+        },
+        {
+            "_id": "65586b4d2bad2eb5e17ba49c",
+            "level_class_id": 7,
+            "level_class_name": "Lớp 7",
+            "slug_class_name": "lop-7",
+            "level_parent_id": 2
+        },
+        {
+            "_id": "65586b4d2bad2eb5e17ba49e",
+            "level_class_id": 8,
+            "level_class_name": "Lớp 8",
+            "slug_class_name": "lop-8",
+            "level_parent_id": 2
+        },
+        {
+            "_id": "65586b4d2bad2eb5e17ba4a0",
+            "level_class_id": 9,
+            "level_class_name": "Lớp 9",
+            "slug_class_name": "lop-9",
+            "level_parent_id": 2
+        },
+        {
+            "_id": "65586b4d2bad2eb5e17ba4a2",
+            "level_class_id": 10,
+            "level_class_name": "Lớp 10",
+            "slug_class_name": "lop-10",
+            "level_parent_id": 3
+        },
+        {
+            "_id": "65586b4d2bad2eb5e17ba4a4",
+            "level_class_id": 11,
+            "level_class_name": "Lớp 11",
+            "slug_class_name": "lop-11",
+            "level_parent_id": 3
+        },
+        {
+            "_id": "65586b4d2bad2eb5e17ba4a6",
+            "level_class_id": 12,
+            "level_class_name": "Lớp 12",
+            "slug_class_name": "lop-12",
+            "level_parent_id": 3
+        },
+        {
+            "_id": "65586b4d2bad2eb5e17ba4a8",
+            "level_class_id": 14,
+            "level_class_name": "Cấp 1",
+            "slug_class_name": "cap-1",
+            "level_parent_id": 0
+        },
+        {
+            "_id": "65586b4d2bad2eb5e17ba4aa",
+            "level_class_id": 15,
+            "level_class_name": "Cấp 2",
+            "slug_class_name": "cap-2",
+            "level_parent_id": 0
+        },
+        {
+            "_id": "65586b4d2bad2eb5e17ba4ac",
+            "level_class_id": 16,
+            "level_class_name": "Cấp 3",
+            "slug_class_name": "cap-3",
+            "level_parent_id": 0
+        }
+    ],
+    "city": [
+        {
+            "value": 0,
+            "label": "Chọn tỉnh, thành phố"
+        },
+        {
+            "value": 1,
+            "label": "Hà Nội"
+        },
+        {
+            "value": 2,
+            "label": "Hải Phòng"
+        },
+        {
+            "value": 3,
+            "label": "Bắc Giang"
+        },
+        {
+            "value": 4,
+            "label": "Bắc Kạn"
+        },
+        {
+            "value": 5,
+            "label": "Bắc Ninh"
+        },
+        {
+            "value": 6,
+            "label": "Cao Bằng"
+        },
+        {
+            "value": 7,
+            "label": "Điện Biên"
+        },
+        {
+            "value": 8,
+            "label": "Hòa Bình"
+        },
+        {
+            "value": 9,
+            "label": "Hải Dương"
+        },
+        {
+            "value": 10,
+            "label": "Hà Giang"
+        },
+        {
+            "value": 11,
+            "label": "Hà Nam"
+        },
+        {
+            "value": 12,
+            "label": "Hưng Yên"
+        },
+        {
+            "value": 13,
+            "label": "Lào Cai"
+        },
+        {
+            "value": 14,
+            "label": "Lai Châu"
+        },
+        {
+            "value": 15,
+            "label": "Lạng Sơn"
+        },
+        {
+            "value": 16,
+            "label": "Ninh Bình"
+        },
+        {
+            "value": 17,
+            "label": "Nam Định"
+        },
+        {
+            "value": 18,
+            "label": "Phú Thọ"
+        },
+        {
+            "value": 19,
+            "label": "Quảng Ninh"
+        },
+        {
+            "value": 20,
+            "label": "Sơn La"
+        },
+        {
+            "value": 21,
+            "label": "Thái Bình"
+        },
+        {
+            "value": 22,
+            "label": "Thái Nguyên"
+        },
+        {
+            "value": 23,
+            "label": "Tuyên Quang"
+        },
+        {
+            "value": 24,
+            "label": "Vĩnh Phúc"
+        },
+        {
+            "value": 25,
+            "label": "Yên Bái"
+        },
+        {
+            "value": 26,
+            "label": "Đà Nẵng"
+        },
+        {
+            "value": 27,
+            "label": "Thừa Thiên Huế"
+        },
+        {
+            "value": 28,
+            "label": "Khánh Hòa"
+        },
+        {
+            "value": 29,
+            "label": "Lâm Đồng"
+        },
+        {
+            "value": 30,
+            "label": "Bình Định"
+        },
+        {
+            "value": 31,
+            "label": "Bình Thuận"
+        },
+        {
+            "value": 32,
+            "label": "Đắk Lắk"
+        },
+        {
+            "value": 33,
+            "label": "Đắk Nông"
+        },
+        {
+            "value": 34,
+            "label": "Gia Lai"
+        },
+        {
+            "value": 35,
+            "label": "Hà Tĩnh"
+        },
+        {
+            "value": 36,
+            "label": "Kon Tum"
+        },
+        {
+            "value": 37,
+            "label": "Nghệ An"
+        },
+        {
+            "value": 38,
+            "label": "Ninh Thuận"
+        },
+        {
+            "value": 39,
+            "label": "Phú Yên"
+        },
+        {
+            "value": 40,
+            "label": "Quảng Bình"
+        },
+        {
+            "value": 41,
+            "label": "Quảng Nam"
+        },
+        {
+            "value": 42,
+            "label": "Quảng Ngãi"
+        },
+        {
+            "value": 43,
+            "label": "Quảng Trị"
+        },
+        {
+            "value": 44,
+            "label": "Thanh Hóa"
+        },
+        {
+            "value": 45,
+            "label": "Hồ Chí Minh"
+        },
+        {
+            "value": 46,
+            "label": "Bình Dương"
+        },
+        {
+            "value": 47,
+            "label": "Bà Rịa Vũng Tàu"
+        },
+        {
+            "value": 48,
+            "label": "Cần Thơ"
+        },
+        {
+            "value": 49,
+            "label": "An Giang"
+        },
+        {
+            "value": 50,
+            "label": "Bạc Liêu"
+        },
+        {
+            "value": 51,
+            "label": "Bình Phước"
+        },
+        {
+            "value": 52,
+            "label": "Bến Tre"
+        },
+        {
+            "value": 53,
+            "label": "Cà Mau"
+        },
+        {
+            "value": 54,
+            "label": "Đồng Tháp"
+        },
+        {
+            "value": 55,
+            "label": "Đồng Nai"
+        },
+        {
+            "value": 56,
+            "label": "Hậu Giang"
+        },
+        {
+            "value": 57,
+            "label": "Kiên Giang"
+        },
+        {
+            "value": 58,
+            "label": "Long An"
+        },
+        {
+            "value": 59,
+            "label": "Sóc Trăng"
+        },
+        {
+            "value": 60,
+            "label": "Tiền Giang"
+        },
+        {
+            "value": 61,
+            "label": "Tây Ninh"
+        },
+        {
+            "value": 62,
+            "label": "Trà Vinh"
+        },
+        {
+            "value": 63,
+            "label": "Vĩnh Long"
+        }
+    ],
+    "city2": [
+        {
+            "_id": 2,
+            "name": "Hải Phòng"
+        },
+        {
+            "_id": 3,
+            "name": "Bắc Giang"
+        },
+        {
+            "_id": 4,
+            "name": "Bắc Kạn"
+        },
+        {
+            "_id": 5,
+            "name": "Bắc Ninh"
+        },
+        {
+            "_id": 6,
+            "name": "Cao Bằng"
+        },
+        {
+            "_id": 7,
+            "name": "Điện Biên"
+        },
+        {
+            "_id": 1,
+            "name": "Hà Nội"
+        },
+        {
+            "_id": 8,
+            "name": "Hòa Bình"
+        },
+        {
+            "_id": 21,
+            "name": "Thái Bình"
+        },
+        {
+            "_id": 9,
+            "name": "Hải Dương"
+        },
+        {
+            "_id": 22,
+            "name": "Thái Nguyên"
+        },
+        {
+            "_id": 10,
+            "name": "Hà Giang"
+        },
+        {
+            "_id": 11,
+            "name": "Hà Nam"
+        },
+        {
+            "_id": 12,
+            "name": "Hưng Yên"
+        },
+        {
+            "_id": 13,
+            "name": "Lào Cai"
+        },
+        {
+            "_id": 25,
+            "name": "Yên Bái"
+        },
+        {
+            "_id": 14,
+            "name": "Lai Châu"
+        },
+        {
+            "_id": 15,
+            "name": "Lạng Sơn"
+        },
+        {
+            "_id": 26,
+            "name": "Đà Nẵng"
+        },
+        {
+            "_id": 16,
+            "name": "Ninh Bình"
+        },
+        {
+            "_id": 17,
+            "name": "Nam Định"
+        },
+        {
+            "_id": 27,
+            "name": "Thừa Thiên Huế"
+        },
+        {
+            "_id": 28,
+            "name": "Khánh Hòa"
+        },
+        {
+            "_id": 18,
+            "name": "Phú Thọ"
+        },
+        {
+            "_id": 19,
+            "name": "Quảng Ninh"
+        },
+        {
+            "_id": 29,
+            "name": "Lâm Đồng"
+        },
+        {
+            "_id": 20,
+            "name": "Sơn La"
+        },
+        {
+            "_id": 30,
+            "name": "Bình Định"
+        },
+        {
+            "_id": 31,
+            "name": "Bình Thuận"
+        },
+        {
+            "_id": 32,
+            "name": "Đắk Lắk"
+        },
+        {
+            "_id": 33,
+            "name": "Đắk Nông"
+        },
+        {
+            "_id": 34,
+            "name": "Gia Lai"
+        },
+        {
+            "_id": 35,
+            "name": "Hà Tĩnh"
+        },
+        {
+            "_id": 36,
+            "name": "Kon Tum"
+        },
+        {
+            "_id": 37,
+            "name": "Nghệ An"
+        },
+        {
+            "_id": 38,
+            "name": "Ninh Thuận"
+        },
+        {
+            "_id": 39,
+            "name": "Phú Yên"
+        },
+        {
+            "_id": 40,
+            "name": "Quảng Bình"
+        },
+        {
+            "_id": 41,
+            "name": "Quảng Nam"
+        },
+        {
+            "_id": 42,
+            "name": "Quảng Ngãi"
+        },
+        {
+            "_id": 43,
+            "name": "Quảng Trị"
+        },
+        {
+            "_id": 44,
+            "name": "Thanh Hóa"
+        },
+        {
+            "_id": 45,
+            "name": "Hồ Chí Minh"
+        },
+        {
+            "_id": 46,
+            "name": "Bình Dương"
+        },
+        {
+            "_id": 47,
+            "name": "Bà Rịa Vũng Tàu"
+        },
+        {
+            "_id": 48,
+            "name": "Cần Thơ"
+        },
+        {
+            "_id": 49,
+            "name": "An Giang"
+        },
+        {
+            "_id": 50,
+            "name": "Bạc Liêu"
+        },
+        {
+            "_id": 51,
+            "name": "Bình Phước"
+        },
+        {
+            "_id": 52,
+            "name": "Bến Tre"
+        },
+        {
+            "_id": 53,
+            "name": "Cà Mau"
+        },
+        {
+            "_id": 54,
+            "name": "Đồng Tháp"
+        },
+        {
+            "_id": 55,
+            "name": "Đồng Nai"
+        },
+        {
+            "_id": 56,
+            "name": "Hậu Giang"
+        },
+        {
+            "_id": 57,
+            "name": "Kiên Giang"
+        },
+        {
+            "_id": 58,
+            "name": "Long An"
+        },
+        {
+            "_id": 59,
+            "name": "Sóc Trăng"
+        },
+        {
+            "_id": 60,
+            "name": "Tiền Giang"
+        },
+        {
+            "_id": 23,
+            "name": "Tuyên Quang"
+        },
+        {
+            "_id": 62,
+            "name": "Trà Vinh"
+        },
+        {
+            "_id": 63,
+            "name": "Vĩnh Long"
+        },
+        {
+            "_id": 66,
+            "name": "Quận Ba Đình"
+        },
+        {
+            "_id": 67,
+            "name": "Quận Hoàn Kiếm"
+        },
+        {
+            "_id": 68,
+            "name": "Quận Tây Hồ"
+        },
+        {
+            "_id": 69,
+            "name": "Quận Long Biên"
+        },
+        {
+            "_id": 70,
+            "name": "Quận Cầu Giấy"
+        },
+        {
+            "_id": 71,
+            "name": "Quận Đống Đa"
+        },
+        {
+            "_id": 72,
+            "name": "Quận Hai Bà Trưng"
+        },
+        {
+            "_id": 73,
+            "name": "Quận Hoàng Mai"
+        },
+        {
+            "_id": 74,
+            "name": "Quận Thanh Xuân"
+        },
+        {
+            "_id": 75,
+            "name": "Huyện Sóc Sơn"
+        },
+        {
+            "_id": 76,
+            "name": "Huyện Đông Anh"
+        },
+        {
+            "_id": 77,
+            "name": "Huyện Gia Lâm"
+        },
+        {
+            "_id": 78,
+            "name": "Quận Nam Từ Liêm"
+        },
+        {
+            "_id": 79,
+            "name": "Huyện Thanh Trì"
+        },
+        {
+            "_id": 80,
+            "name": "Quận Bắc Từ Liêm"
+        },
+        {
+            "_id": 81,
+            "name": "Huyện Mê Linh"
+        },
+        {
+            "_id": 82,
+            "name": "Quận Hà Đông"
+        },
+        {
+            "_id": 83,
+            "name": "Thị xã Sơn Tây"
+        },
+        {
+            "_id": 84,
+            "name": "Huyện Ba Vì"
+        },
+        {
+            "_id": 85,
+            "name": "Huyện Phúc Thọ"
+        },
+        {
+            "_id": 86,
+            "name": "Huyện Đan Phượng"
+        },
+        {
+            "_id": 87,
+            "name": "Huyện Hoài Đức"
+        },
+        {
+            "_id": 24,
+            "name": "Vĩnh Phúc"
+        },
+        {
+            "_id": 89,
+            "name": "Huyện Thạch Thất"
+        },
+        {
+            "_id": 90,
+            "name": "Huyện Chương Mỹ"
+        },
+        {
+            "_id": 91,
+            "name": "Huyện Thanh Oai"
+        },
+        {
+            "_id": 92,
+            "name": "Huyện Thường Tín"
+        },
+        {
+            "_id": 93,
+            "name": "Huyện Phú Xuyên"
+        },
+        {
+            "_id": 94,
+            "name": "Huyện Ứng Hòa"
+        },
+        {
+            "_id": 95,
+            "name": "Huyện Mỹ Đức"
+        },
+        {
+            "_id": 96,
+            "name": "Thành phố Hà Giang"
+        },
+        {
+            "_id": 97,
+            "name": "Huyện Đồng Văn"
+        },
+        {
+            "_id": 98,
+            "name": "Huyện Mèo Vạc"
+        },
+        {
+            "_id": 99,
+            "name": "Huyện Yên Minh"
+        },
+        {
+            "_id": 100,
+            "name": "Huyện Quản Bạ"
+        },
+        {
+            "_id": 101,
+            "name": "Huyện Vị Xuyên"
+        },
+        {
+            "_id": 102,
+            "name": "Huyện Bắc Mê"
+        },
+        {
+            "_id": 103,
+            "name": "Huyện Hoàng Su Phì"
+        },
+        {
+            "_id": 104,
+            "name": "Huyện Xín Mần"
+        },
+        {
+            "_id": 105,
+            "name": "Huyện Bắc Quang"
+        },
+        {
+            "_id": 106,
+            "name": "Huyện Quang Bình"
+        },
+        {
+            "_id": 107,
+            "name": "Thành phố Cao Bằng"
+        },
+        {
+            "_id": 108,
+            "name": "Huyện Bảo Lâm"
+        },
+        {
+            "_id": 109,
+            "name": "Huyện Bảo Lạc"
+        },
+        {
+            "_id": 110,
+            "name": "Huyện Thông Nông"
+        },
+        {
+            "_id": 111,
+            "name": "Huyện Hà Quảng"
+        },
+        {
+            "_id": 112,
+            "name": "Huyện Trà Lĩnh"
+        },
+        {
+            "_id": 113,
+            "name": "Huyện Trùng Khánh"
+        },
+        {
+            "_id": 114,
+            "name": "Huyện Hạ Lang"
+        },
+        {
+            "_id": 115,
+            "name": "Huyện Quảng Uyên"
+        },
+        {
+            "_id": 116,
+            "name": "Huyện Phục Hoà"
+        },
+        {
+            "_id": 117,
+            "name": "Huyện Hoà An"
+        },
+        {
+            "_id": 118,
+            "name": "Huyện Nguyên Bình"
+        },
+        {
+            "_id": 119,
+            "name": "Huyện Thạch An"
+        },
+        {
+            "_id": 120,
+            "name": "Thành Phố Bắc Kạn"
+        },
+        {
+            "_id": 121,
+            "name": "Huyện Pác Nặm"
+        },
+        {
+            "_id": 122,
+            "name": "Huyện Ba Bể"
+        },
+        {
+            "_id": 123,
+            "name": "Huyện Ngân Sơn"
+        },
+        {
+            "_id": 124,
+            "name": "Huyện Bạch Thông"
+        },
+        {
+            "_id": 125,
+            "name": "Huyện Chợ Đồn"
+        },
+        {
+            "_id": 126,
+            "name": "Huyện Chợ Mới"
+        },
+        {
+            "_id": 127,
+            "name": "Huyện Na Rì"
+        },
+        {
+            "_id": 128,
+            "name": "Thành phố Tuyên Quang"
+        },
+        {
+            "_id": 129,
+            "name": "Huyện Lâm Bình"
+        },
+        {
+            "_id": 130,
+            "name": "Huyện Nà Hang"
+        },
+        {
+            "_id": 131,
+            "name": "Huyện Chiêm Hóa"
+        },
+        {
+            "_id": 132,
+            "name": "Huyện Hàm Yên"
+        },
+        {
+            "_id": 133,
+            "name": "Huyện Yên Sơn"
+        },
+        {
+            "_id": 134,
+            "name": "Huyện Sơn Dương"
+        },
+        {
+            "_id": 135,
+            "name": "Thành phố Lào Cai"
+        },
+        {
+            "_id": 136,
+            "name": "Huyện Bát Xát"
+        },
+        {
+            "_id": 61,
+            "name": "Tây Ninh"
+        },
+        {
+            "_id": 138,
+            "name": "Huyện Si Ma Cai"
+        },
+        {
+            "_id": 139,
+            "name": "Huyện Bắc Hà"
+        },
+        {
+            "_id": 140,
+            "name": "Huyện Bảo Thắng"
+        },
+        {
+            "_id": 141,
+            "name": "Huyện Bảo Yên"
+        },
+        {
+            "_id": 142,
+            "name": "Thị xã Sa Pa"
+        },
+        {
+            "_id": 143,
+            "name": "Huyện Văn Bàn"
+        },
+        {
+            "_id": 144,
+            "name": "Thành phố Điện Biên Phủ"
+        },
+        {
+            "_id": 145,
+            "name": "Thị Xã Mường Lay"
+        },
+        {
+            "_id": 146,
+            "name": "Huyện Mường Nhé"
+        },
+        {
+            "_id": 147,
+            "name": "Huyện Mường Chà"
+        },
+        {
+            "_id": 148,
+            "name": "Huyện Tủa Chùa"
+        },
+        {
+            "_id": 149,
+            "name": "Huyện Tuần Giáo"
+        },
+        {
+            "_id": 150,
+            "name": "Huyện Điện Biên"
+        },
+        {
+            "_id": 151,
+            "name": "Huyện Điện Biên Đông"
+        },
+        {
+            "_id": 152,
+            "name": "Huyện Mường Ảng"
+        },
+        {
+            "_id": 153,
+            "name": "Huyện Nậm Pồ"
+        },
+        {
+            "_id": 154,
+            "name": "Thành phố Lai Châu"
+        },
+        {
+            "_id": 155,
+            "name": "Huyện Tam Đường"
+        },
+        {
+            "_id": 156,
+            "name": "Huyện Mường Tè"
+        },
+        {
+            "_id": 157,
+            "name": "Huyện Sìn Hồ"
+        },
+        {
+            "_id": 158,
+            "name": "Huyện Phong Thổ"
+        },
+        {
+            "_id": 159,
+            "name": "Huyện Than Uyên"
+        },
+        {
+            "_id": 160,
+            "name": "Huyện Tân Uyên"
+        },
+        {
+            "_id": 161,
+            "name": "Huyện Nậm Nhùn"
+        },
+        {
+            "_id": 162,
+            "name": "Thành phố Sơn La"
+        },
+        {
+            "_id": 88,
+            "name": "Huyện Quốc Oai"
+        },
+        {
+            "_id": 164,
+            "name": "Huyện Thuận Châu"
+        },
+        {
+            "_id": 165,
+            "name": "Huyện Mường La"
+        },
+        {
+            "_id": 166,
+            "name": "Huyện Bắc Yên"
+        },
+        {
+            "_id": 167,
+            "name": "Huyện Phù Yên"
+        },
+        {
+            "_id": 168,
+            "name": "Huyện Mộc Châu"
+        },
+        {
+            "_id": 169,
+            "name": "Huyện Yên Châu"
+        },
+        {
+            "_id": 170,
+            "name": "Huyện Mai Sơn"
+        },
+        {
+            "_id": 171,
+            "name": "Huyện Sông Mã"
+        },
+        {
+            "_id": 172,
+            "name": "Huyện Sốp Cộp"
+        },
+        {
+            "_id": 173,
+            "name": "Huyện Vân Hồ"
+        },
+        {
+            "_id": 174,
+            "name": "Thành phố Yên Bái"
+        },
+        {
+            "_id": 175,
+            "name": "Thị xã Nghĩa Lộ"
+        },
+        {
+            "_id": 176,
+            "name": "Huyện Lục Yên"
+        },
+        {
+            "_id": 177,
+            "name": "Huyện Văn Yên"
+        },
+        {
+            "_id": 178,
+            "name": "Huyện Mù Căng Chải"
+        },
+        {
+            "_id": 179,
+            "name": "Huyện Trấn Yên"
+        },
+        {
+            "_id": 180,
+            "name": "Huyện Trạm Tấu"
+        },
+        {
+            "_id": 181,
+            "name": "Huyện Văn Chấn"
+        },
+        {
+            "_id": 182,
+            "name": "Huyện Yên Bình"
+        },
+        {
+            "_id": 183,
+            "name": "Thành phố Hòa Bình"
+        },
+        {
+            "_id": 184,
+            "name": "Huyện Đà Bắc"
+        },
+        {
+            "_id": 185,
+            "name": "Huyện Kỳ Sơn"
+        },
+        {
+            "_id": 186,
+            "name": "Huyện Lương Sơn"
+        },
+        {
+            "_id": 187,
+            "name": "Huyện Kim Bôi"
+        },
+        {
+            "_id": 188,
+            "name": "Huyện Cao Phong"
+        },
+        {
+            "_id": 189,
+            "name": "Huyện Tân Lạc"
+        },
+        {
+            "_id": 190,
+            "name": "Huyện Mai Châu"
+        },
+        {
+            "_id": 191,
+            "name": "Huyện Lạc Sơn"
+        },
+        {
+            "_id": 192,
+            "name": "Huyện Yên Thủy"
+        },
+        {
+            "_id": 193,
+            "name": "Huyện Lạc Thủy"
+        },
+        {
+            "_id": 194,
+            "name": "Thành phố Thái Nguyên"
+        },
+        {
+            "_id": 195,
+            "name": "Thành phố Sông Công"
+        },
+        {
+            "_id": 196,
+            "name": "Huyện Định Hóa"
+        },
+        {
+            "_id": 197,
+            "name": "Huyện Phú Lương"
+        },
+        {
+            "_id": 198,
+            "name": "Huyện Đồng Hỷ"
+        },
+        {
+            "_id": 199,
+            "name": "Huyện Võ Nhai"
+        },
+        {
+            "_id": 200,
+            "name": "Huyện Đại Từ"
+        },
+        {
+            "_id": 201,
+            "name": "Thị xã Phổ Yên"
+        },
+        {
+            "_id": 202,
+            "name": "Huyện Phú Bình"
+        },
+        {
+            "_id": 203,
+            "name": "Thành phố Lạng Sơn"
+        },
+        {
+            "_id": 204,
+            "name": "Huyện Tràng Định"
+        },
+        {
+            "_id": 205,
+            "name": "Huyện Bình Gia"
+        },
+        {
+            "_id": 206,
+            "name": "Huyện Văn Lãng"
+        },
+        {
+            "_id": 207,
+            "name": "Huyện Cao Lộc"
+        },
+        {
+            "_id": 208,
+            "name": "Huyện Văn Quan"
+        },
+        {
+            "_id": 209,
+            "name": "Huyện Bắc Sơn"
+        },
+        {
+            "_id": 210,
+            "name": "Huyện Hữu Lũng"
+        },
+        {
+            "_id": 211,
+            "name": "Huyện Chi Lăng"
+        },
+        {
+            "_id": 212,
+            "name": "Huyện Lộc Bình"
+        },
+        {
+            "_id": 213,
+            "name": "Huyện Đình Lập"
+        },
+        {
+            "_id": 214,
+            "name": "Thành phố Hạ Long"
+        },
+        {
+            "_id": 215,
+            "name": "Thành phố Móng Cái"
+        },
+        {
+            "_id": 137,
+            "name": "Huyện Mường Khương"
+        },
+        {
+            "_id": 217,
+            "name": "Thành phố Uông Bí"
+        },
+        {
+            "_id": 218,
+            "name": "Huyện Bình Liêu"
+        },
+        {
+            "_id": 219,
+            "name": "Huyện Tiên Yên"
+        },
+        {
+            "_id": 220,
+            "name": "Huyện Đầm Hà"
+        },
+        {
+            "_id": 221,
+            "name": "Huyện Hải Hà"
+        },
+        {
+            "_id": 222,
+            "name": "Huyện Ba Chẽ"
+        },
+        {
+            "_id": 223,
+            "name": "Huyện Vân Đồn"
+        },
+        {
+            "_id": 225,
+            "name": "Thị xã Đông Triều"
+        },
+        {
+            "_id": 226,
+            "name": "Thị xã Quảng Yên"
+        },
+        {
+            "_id": 227,
+            "name": "Huyện Cô Tô"
+        },
+        {
+            "_id": 228,
+            "name": "Thành phố Bắc Giang"
+        },
+        {
+            "_id": 229,
+            "name": "Huyện Yên Thế"
+        },
+        {
+            "_id": 230,
+            "name": "Huyện Tân Yên"
+        },
+        {
+            "_id": 231,
+            "name": "Huyện Lạng Giang"
+        },
+        {
+            "_id": 232,
+            "name": "Huyện Lục Nam"
+        },
+        {
+            "_id": 233,
+            "name": "Huyện Lục Ngạn"
+        },
+        {
+            "_id": 234,
+            "name": "Huyện Sơn Động"
+        },
+        {
+            "_id": 235,
+            "name": "Huyện Yên Dũng"
+        },
+        {
+            "_id": 236,
+            "name": "Huyện Việt Yên"
+        },
+        {
+            "_id": 237,
+            "name": "Huyện Hiệp Hòa"
+        },
+        {
+            "_id": 238,
+            "name": "Thành phố Việt Trì"
+        },
+        {
+            "_id": 239,
+            "name": "Thị xã Phú Thọ"
+        },
+        {
+            "_id": 240,
+            "name": "Huyện Đoan Hùng"
+        },
+        {
+            "_id": 241,
+            "name": "Huyện Hạ Hoà"
+        },
+        {
+            "_id": 242,
+            "name": "Huyện Thanh Ba"
+        },
+        {
+            "_id": 243,
+            "name": "Huyện Phù Ninh"
+        },
+        {
+            "_id": 244,
+            "name": "Huyện Yên Lập"
+        },
+        {
+            "_id": 163,
+            "name": "Huyện Quỳnh Nhai"
+        },
+        {
+            "_id": 246,
+            "name": "Huyện Tam Nông"
+        },
+        {
+            "_id": 247,
+            "name": "Huyện Lâm Thao"
+        },
+        {
+            "_id": 248,
+            "name": "Huyện Thanh Sơn"
+        },
+        {
+            "_id": 249,
+            "name": "Huyện Thanh Thuỷ"
+        },
+        {
+            "_id": 250,
+            "name": "Huyện Tân Sơn"
+        },
+        {
+            "_id": 251,
+            "name": "Thành phố Vĩnh Yên"
+        },
+        {
+            "_id": 252,
+            "name": "Thành phố Phúc Yên"
+        },
+        {
+            "_id": 253,
+            "name": "Huyện Lập Thạch"
+        },
+        {
+            "_id": 254,
+            "name": "Huyện Tam Dương"
+        },
+        {
+            "_id": 255,
+            "name": "Huyện Tam Đảo"
+        },
+        {
+            "_id": 256,
+            "name": "Huyện Bình Xuyên"
+        },
+        {
+            "_id": 257,
+            "name": "Huyện Yên Lạc"
+        },
+        {
+            "_id": 258,
+            "name": "Huyện Vĩnh Tường"
+        },
+        {
+            "_id": 259,
+            "name": "Huyện Sông Lô"
+        },
+        {
+            "_id": 260,
+            "name": "Thành phố Bắc Ninh"
+        },
+        {
+            "_id": 261,
+            "name": "Huyện Yên Phong"
+        },
+        {
+            "_id": 262,
+            "name": "Huyện Quế Võ"
+        },
+        {
+            "_id": 263,
+            "name": "Huyện Tiên Du"
+        },
+        {
+            "_id": 264,
+            "name": "Thị xã Từ Sơn"
+        },
+        {
+            "_id": 265,
+            "name": "Huyện Thuận Thành"
+        },
+        {
+            "_id": 266,
+            "name": "Huyện Gia Bình"
+        },
+        {
+            "_id": 267,
+            "name": "Huyện Lương Tài"
+        },
+        {
+            "_id": 268,
+            "name": "Thành phố Hải Dương"
+        },
+        {
+            "_id": 269,
+            "name": "Thành phố Chí Linh"
+        },
+        {
+            "_id": 270,
+            "name": "Huyện Nam Sách"
+        },
+        {
+            "_id": 271,
+            "name": "Huyện Kinh Môn"
+        },
+        {
+            "_id": 272,
+            "name": "Huyện Kim Thành"
+        },
+        {
+            "_id": 273,
+            "name": "Huyện Thanh Hà"
+        },
+        {
+            "_id": 274,
+            "name": "Huyện Cẩm Giàng"
+        },
+        {
+            "_id": 275,
+            "name": "Huyện Bình Giang"
+        },
+        {
+            "_id": 276,
+            "name": "Huyện Gia Lộc"
+        },
+        {
+            "_id": 277,
+            "name": "Huyện Tứ Kỳ"
+        },
+        {
+            "_id": 278,
+            "name": "Huyện Ninh Giang"
+        },
+        {
+            "_id": 279,
+            "name": "Huyện Thanh Miện"
+        },
+        {
+            "_id": 280,
+            "name": "Quận Hồng Bàng"
+        },
+        {
+            "_id": 281,
+            "name": "Quận Ngô Quyền"
+        },
+        {
+            "_id": 282,
+            "name": "Quận Lê Chân"
+        },
+        {
+            "_id": 283,
+            "name": "Quận Hải An"
+        },
+        {
+            "_id": 284,
+            "name": "Quận Kiến An"
+        },
+        {
+            "_id": 285,
+            "name": "Quận Đồ Sơn"
+        },
+        {
+            "_id": 286,
+            "name": "Quận Dương Kinh"
+        },
+        {
+            "_id": 287,
+            "name": "Huyện Thuỷ Nguyên"
+        },
+        {
+            "_id": 288,
+            "name": "Huyện An Dương"
+        },
+        {
+            "_id": 289,
+            "name": "Huyện An Lão"
+        },
+        {
+            "_id": 290,
+            "name": "Huyện Kiến Thuỵ"
+        },
+        {
+            "_id": 291,
+            "name": "Huyện Tiên Lãng"
+        },
+        {
+            "_id": 292,
+            "name": "Huyện Vĩnh Bảo"
+        },
+        {
+            "_id": 293,
+            "name": "Huyện Cát Hải"
+        },
+        {
+            "_id": 294,
+            "name": "Thành phố Hưng Yên"
+        },
+        {
+            "_id": 295,
+            "name": "Huyện Văn Lâm"
+        },
+        {
+            "_id": 296,
+            "name": "Huyện Văn Giang"
+        },
+        {
+            "_id": 297,
+            "name": "Huyện Yên Mỹ"
+        },
+        {
+            "_id": 298,
+            "name": "Thị xã Mỹ Hào"
+        },
+        {
+            "_id": 299,
+            "name": "Huyện Ân Thi"
+        },
+        {
+            "_id": 300,
+            "name": "Huyện Khoái Châu"
+        },
+        {
+            "_id": 301,
+            "name": "Huyện Kim Động"
+        },
+        {
+            "_id": 216,
+            "name": "Thành phố Cẩm Phả"
+        },
+        {
+            "_id": 303,
+            "name": "Huyện Phù Cừ"
+        },
+        {
+            "_id": 304,
+            "name": "Thành phố Thái Bình"
+        },
+        {
+            "_id": 305,
+            "name": "Huyện Quỳnh Phụ"
+        },
+        {
+            "_id": 306,
+            "name": "Huyện Hưng Hà"
+        },
+        {
+            "_id": 307,
+            "name": "Huyện Đông Hưng"
+        },
+        {
+            "_id": 308,
+            "name": "Huyện Thái Thụy"
+        },
+        {
+            "_id": 309,
+            "name": "Huyện Tiền Hải"
+        },
+        {
+            "_id": 310,
+            "name": "Huyện Kiến Xương"
+        },
+        {
+            "_id": 311,
+            "name": "Huyện Vũ Thư"
+        },
+        {
+            "_id": 312,
+            "name": "Thành phố Phủ Lý"
+        },
+        {
+            "_id": 313,
+            "name": "Thị xã Duy Tiên"
+        },
+        {
+            "_id": 314,
+            "name": "Huyện Kim Bảng"
+        },
+        {
+            "_id": 315,
+            "name": "Huyện Thanh Liêm"
+        },
+        {
+            "_id": 316,
+            "name": "Huyện Bình Lục"
+        },
+        {
+            "_id": 317,
+            "name": "Huyện Lý Nhân"
+        },
+        {
+            "_id": 318,
+            "name": "Thành phố Nam Định"
+        },
+        {
+            "_id": 319,
+            "name": "Huyện Mỹ Lộc"
+        },
+        {
+            "_id": 320,
+            "name": "Huyện Vụ Bản"
+        },
+        {
+            "_id": 321,
+            "name": "Huyện Ý Yên"
+        },
+        {
+            "_id": 322,
+            "name": "Huyện Nghĩa Hưng"
+        },
+        {
+            "_id": 323,
+            "name": "Huyện Nam Trực"
+        },
+        {
+            "_id": 324,
+            "name": "Huyện Trực Ninh"
+        },
+        {
+            "_id": 325,
+            "name": "Huyện Xuân Trường"
+        },
+        {
+            "_id": 326,
+            "name": "Huyện Giao Thủy"
+        },
+        {
+            "_id": 327,
+            "name": "Huyện Hải Hậu"
+        },
+        {
+            "_id": 328,
+            "name": "Thành phố Ninh Bình"
+        },
+        {
+            "_id": 329,
+            "name": "Thành phố Tam Điệp"
+        },
+        {
+            "_id": 330,
+            "name": "Huyện Nho Quan"
+        },
+        {
+            "_id": 331,
+            "name": "Huyện Gia Viễn"
+        },
+        {
+            "_id": 245,
+            "name": "Huyện Cẩm Khê"
+        },
+        {
+            "_id": 333,
+            "name": "Huyện Yên Khánh"
+        },
+        {
+            "_id": 334,
+            "name": "Huyện Kim Sơn"
+        },
+        {
+            "_id": 335,
+            "name": "Huyện Yên Mô"
+        },
+        {
+            "_id": 336,
+            "name": "Thành phố Thanh Hóa"
+        },
+        {
+            "_id": 337,
+            "name": "Thị xã Bỉm Sơn"
+        },
+        {
+            "_id": 338,
+            "name": "Thành phố Sầm Sơn"
+        },
+        {
+            "_id": 339,
+            "name": "Huyện Mường Lát"
+        },
+        {
+            "_id": 340,
+            "name": "Huyện Quan Hóa"
+        },
+        {
+            "_id": 341,
+            "name": "Huyện Bá Thước"
+        },
+        {
+            "_id": 342,
+            "name": "Huyện Quan Sơn"
+        },
+        {
+            "_id": 343,
+            "name": "Huyện Lang Chánh"
+        },
+        {
+            "_id": 344,
+            "name": "Huyện Ngọc Lặc"
+        },
+        {
+            "_id": 345,
+            "name": "Huyện Cẩm Thủy"
+        },
+        {
+            "_id": 346,
+            "name": "Huyện Thạch Thành"
+        },
+        {
+            "_id": 347,
+            "name": "Huyện Hà Trung"
+        },
+        {
+            "_id": 348,
+            "name": "Huyện Vĩnh Lộc"
+        },
+        {
+            "_id": 349,
+            "name": "Huyện Yên Định"
+        },
+        {
+            "_id": 350,
+            "name": "Huyện Thọ Xuân"
+        },
+        {
+            "_id": 351,
+            "name": "Huyện Thường Xuân"
+        },
+        {
+            "_id": 352,
+            "name": "Huyện Triệu Sơn"
+        },
+        {
+            "_id": 353,
+            "name": "Huyện Thiệu Hóa"
+        },
+        {
+            "_id": 354,
+            "name": "Huyện Hoằng Hóa"
+        },
+        {
+            "_id": 355,
+            "name": "Huyện Hậu Lộc"
+        },
+        {
+            "_id": 356,
+            "name": "Huyện Nga Sơn"
+        },
+        {
+            "_id": 357,
+            "name": "Huyện Như Xuân"
+        },
+        {
+            "_id": 358,
+            "name": "Huyện Như Thanh"
+        },
+        {
+            "_id": 359,
+            "name": "Huyện Nông Cống"
+        },
+        {
+            "_id": 360,
+            "name": "Huyện Đông Sơn"
+        },
+        {
+            "_id": 361,
+            "name": "Huyện Quảng Xương"
+        },
+        {
+            "_id": 362,
+            "name": "Huyện Tĩnh Gia"
+        },
+        {
+            "_id": 363,
+            "name": "Thành phố Vinh"
+        },
+        {
+            "_id": 364,
+            "name": "Thị xã Cửa Lò"
+        },
+        {
+            "_id": 365,
+            "name": "Thị xã Thái Hoà"
+        },
+        {
+            "_id": 366,
+            "name": "Huyện Quế Phong"
+        },
+        {
+            "_id": 367,
+            "name": "Huyện Quỳ Châu"
+        },
+        {
+            "_id": 368,
+            "name": "Huyện Tương Dương"
+        },
+        {
+            "_id": 369,
+            "name": "Huyện Nghĩa Đàn"
+        },
+        {
+            "_id": 370,
+            "name": "Huyện Quỳ Hợp"
+        },
+        {
+            "_id": 371,
+            "name": "Huyện Quỳnh Lưu"
+        },
+        {
+            "_id": 372,
+            "name": "Huyện Con Cuông"
+        },
+        {
+            "_id": 373,
+            "name": "Huyện Tân Kỳ"
+        },
+        {
+            "_id": 374,
+            "name": "Huyện Anh Sơn"
+        },
+        {
+            "_id": 375,
+            "name": "Huyện Diễn Châu"
+        },
+        {
+            "_id": 376,
+            "name": "Huyện Yên Thành"
+        },
+        {
+            "_id": 377,
+            "name": "Huyện Đô Lương"
+        },
+        {
+            "_id": 378,
+            "name": "Huyện Thanh Chương"
+        },
+        {
+            "_id": 379,
+            "name": "Huyện Nghi Lộc"
+        },
+        {
+            "_id": 380,
+            "name": "Huyện Nam Đàn"
+        },
+        {
+            "_id": 381,
+            "name": "Huyện Hưng Nguyên"
+        },
+        {
+            "_id": 382,
+            "name": "Thị xã Hoàng Mai"
+        },
+        {
+            "_id": 383,
+            "name": "Thành phố Hà Tĩnh"
+        },
+        {
+            "_id": 384,
+            "name": "Thị xã Hồng Lĩnh"
+        },
+        {
+            "_id": 385,
+            "name": "Huyện Hương Sơn"
+        },
+        {
+            "_id": 386,
+            "name": "Huyện Đức Thọ"
+        },
+        {
+            "_id": 387,
+            "name": "Huyện Vũ Quang"
+        },
+        {
+            "_id": 388,
+            "name": "Huyện Nghi Xuân"
+        },
+        {
+            "_id": 389,
+            "name": "Huyện Can Lộc"
+        },
+        {
+            "_id": 390,
+            "name": "Huyện Hương Khê"
+        },
+        {
+            "_id": 391,
+            "name": "Huyện Thạch Hà"
+        },
+        {
+            "_id": 302,
+            "name": "Huyện Tiên Lữ"
+        },
+        {
+            "_id": 393,
+            "name": "Huyện Kỳ Anh"
+        },
+        {
+            "_id": 394,
+            "name": "Huyện Lộc Hà"
+        },
+        {
+            "_id": 395,
+            "name": "Thị xã Kỳ Anh"
+        },
+        {
+            "_id": 396,
+            "name": "Thành Phố Đồng Hới"
+        },
+        {
+            "_id": 397,
+            "name": "Huyện Minh Hóa"
+        },
+        {
+            "_id": 398,
+            "name": "Huyện Tuyên Hóa"
+        },
+        {
+            "_id": 399,
+            "name": "Huyện Quảng Trạch"
+        },
+        {
+            "_id": 400,
+            "name": "Huyện Bố Trạch"
+        },
+        {
+            "_id": 401,
+            "name": "Huyện Quảng Ninh"
+        },
+        {
+            "_id": 402,
+            "name": "Huyện Lệ Thủy"
+        },
+        {
+            "_id": 403,
+            "name": "Thị xã Ba Đồn"
+        },
+        {
+            "_id": 404,
+            "name": "Thành phố Đông Hà"
+        },
+        {
+            "_id": 405,
+            "name": "Thị xã Quảng Trị"
+        },
+        {
+            "_id": 406,
+            "name": "Huyện Vĩnh Linh"
+        },
+        {
+            "_id": 407,
+            "name": "Huyện Hướng Hóa"
+        },
+        {
+            "_id": 408,
+            "name": "Huyện Gio Linh"
+        },
+        {
+            "_id": 409,
+            "name": "Huyện Đa Krông"
+        },
+        {
+            "_id": 410,
+            "name": "Huyện Cam Lộ"
+        },
+        {
+            "_id": 411,
+            "name": "Huyện Triệu Phong"
+        },
+        {
+            "_id": 412,
+            "name": "Huyện Hải Lăng"
+        },
+        {
+            "_id": 413,
+            "name": "Thành phố Huế"
+        },
+        {
+            "_id": 414,
+            "name": "Huyện Phong Điền"
+        },
+        {
+            "_id": 415,
+            "name": "Huyện Quảng Điền"
+        },
+        {
+            "_id": 416,
+            "name": "Huyện Phú Vang"
+        },
+        {
+            "_id": 417,
+            "name": "Thị xã Hương Thủy"
+        },
+        {
+            "_id": 418,
+            "name": "Thị xã Hương Trà"
+        },
+        {
+            "_id": 419,
+            "name": "Huyện A Lưới"
+        },
+        {
+            "_id": 420,
+            "name": "Huyện Phú Lộc"
+        },
+        {
+            "_id": 421,
+            "name": "Huyện Nam Đông"
+        },
+        {
+            "_id": 422,
+            "name": "Quận Liên Chiểu"
+        },
+        {
+            "_id": 423,
+            "name": "Quận Thanh Khê"
+        },
+        {
+            "_id": 424,
+            "name": "Quận Hải Châu"
+        },
+        {
+            "_id": 425,
+            "name": "Quận Sơn Trà"
+        },
+        {
+            "_id": 426,
+            "name": "Quận Ngũ Hành Sơn"
+        },
+        {
+            "_id": 332,
+            "name": "Huyện Hoa Lư"
+        },
+        {
+            "_id": 428,
+            "name": "Huyện Hòa Vang"
+        },
+        {
+            "_id": 429,
+            "name": "Thành phố Tam Kỳ"
+        },
+        {
+            "_id": 430,
+            "name": "Thành phố Hội An"
+        },
+        {
+            "_id": 431,
+            "name": "Huyện Tây Giang"
+        },
+        {
+            "_id": 432,
+            "name": "Huyện Đông Giang"
+        },
+        {
+            "_id": 433,
+            "name": "Huyện Đại Lộc"
+        },
+        {
+            "_id": 434,
+            "name": "Thị xã Điện Bàn"
+        },
+        {
+            "_id": 435,
+            "name": "Huyện Duy Xuyên"
+        },
+        {
+            "_id": 436,
+            "name": "Huyện Quế Sơn"
+        },
+        {
+            "_id": 437,
+            "name": "Huyện Nam Giang"
+        },
+        {
+            "_id": 438,
+            "name": "Huyện Phước Sơn"
+        },
+        {
+            "_id": 439,
+            "name": "Huyện Hiệp Đức"
+        },
+        {
+            "_id": 440,
+            "name": "Huyện Thăng Bình"
+        },
+        {
+            "_id": 441,
+            "name": "Huyện Tiên Phước"
+        },
+        {
+            "_id": 442,
+            "name": "Huyện Bắc Trà My"
+        },
+        {
+            "_id": 443,
+            "name": "Huyện Nam Trà My"
+        },
+        {
+            "_id": 444,
+            "name": "Huyện Núi Thành"
+        },
+        {
+            "_id": 445,
+            "name": "Huyện Phú Ninh"
+        },
+        {
+            "_id": 446,
+            "name": "Huyện Nông Sơn"
+        },
+        {
+            "_id": 447,
+            "name": "Thành phố Quảng Ngãi"
+        },
+        {
+            "_id": 448,
+            "name": "Huyện Bình Sơn"
+        },
+        {
+            "_id": 449,
+            "name": "Huyện Trà Bồng"
+        },
+        {
+            "_id": 450,
+            "name": "Huyện Tây Trà"
+        },
+        {
+            "_id": 451,
+            "name": "Huyện Sơn Tịnh"
+        },
+        {
+            "_id": 452,
+            "name": "Huyện Tư Nghĩa"
+        },
+        {
+            "_id": 453,
+            "name": "Huyện Sơn Hà"
+        },
+        {
+            "_id": 454,
+            "name": "Huyện Sơn Tây"
+        },
+        {
+            "_id": 455,
+            "name": "Huyện Minh Long"
+        },
+        {
+            "_id": 456,
+            "name": "Huyện Nghĩa Hành"
+        },
+        {
+            "_id": 457,
+            "name": "Huyện Mộ Đức"
+        },
+        {
+            "_id": 458,
+            "name": "Thị xã Đức Phổ"
+        },
+        {
+            "_id": 459,
+            "name": "Huyện Ba Tơ"
+        },
+        {
+            "_id": 460,
+            "name": "Huyện Lý Sơn"
+        },
+        {
+            "_id": 461,
+            "name": "Thành phố Quy Nhơn"
+        },
+        {
+            "_id": 462,
+            "name": "Huyện Hoài Nhơn"
+        },
+        {
+            "_id": 463,
+            "name": "Huyện Hoài Ân"
+        },
+        {
+            "_id": 464,
+            "name": "Huyện Phù Mỹ"
+        },
+        {
+            "_id": 465,
+            "name": "Huyện Vĩnh Thạnh"
+        },
+        {
+            "_id": 466,
+            "name": "Huyện Tây Sơn"
+        },
+        {
+            "_id": 467,
+            "name": "Huyện Phù Cát"
+        },
+        {
+            "_id": 468,
+            "name": "Thị xã An Nhơn"
+        },
+        {
+            "_id": 469,
+            "name": "Huyện Tuy Phước"
+        },
+        {
+            "_id": 470,
+            "name": "Huyện Vân Canh"
+        },
+        {
+            "_id": 471,
+            "name": "Thành phố Tuy Hoà"
+        },
+        {
+            "_id": 472,
+            "name": "Thị xã Sông Cầu"
+        },
+        {
+            "_id": 473,
+            "name": "Huyện Đồng Xuân"
+        },
+        {
+            "_id": 474,
+            "name": "Huyện Tuy An"
+        },
+        {
+            "_id": 475,
+            "name": "Huyện Sơn Hòa"
+        },
+        {
+            "_id": 476,
+            "name": "Huyện Sông Hinh"
+        },
+        {
+            "_id": 477,
+            "name": "Huyện Tây Hoà"
+        },
+        {
+            "_id": 478,
+            "name": "Huyện Phú Hoà"
+        },
+        {
+            "_id": 479,
+            "name": "Huyện Đông Hòa"
+        },
+        {
+            "_id": 480,
+            "name": "Thành phố Nha Trang"
+        },
+        {
+            "_id": 481,
+            "name": "Thành phố Cam Ranh"
+        },
+        {
+            "_id": 482,
+            "name": "Huyện Cam Lâm"
+        },
+        {
+            "_id": 483,
+            "name": "Huyện Vạn Ninh"
+        },
+        {
+            "_id": 484,
+            "name": "Thị xã Ninh Hòa"
+        },
+        {
+            "_id": 485,
+            "name": "Huyện Khánh Vĩnh"
+        },
+        {
+            "_id": 486,
+            "name": "Huyện Diên Khánh"
+        },
+        {
+            "_id": 487,
+            "name": "Huyện Khánh Sơn"
+        },
+        {
+            "_id": 488,
+            "name": "Huyện Trường Sa"
+        },
+        {
+            "_id": 489,
+            "name": "Thành phố Phan Rang-Tháp Chàm"
+        },
+        {
+            "_id": 490,
+            "name": "Huyện Bác Ái"
+        },
+        {
+            "_id": 392,
+            "name": "Huyện Cẩm Xuyên"
+        },
+        {
+            "_id": 492,
+            "name": "Huyện Ninh Hải"
+        },
+        {
+            "_id": 493,
+            "name": "Huyện Ninh Phước"
+        },
+        {
+            "_id": 494,
+            "name": "Huyện Thuận Bắc"
+        },
+        {
+            "_id": 495,
+            "name": "Huyện Thuận Nam"
+        },
+        {
+            "_id": 496,
+            "name": "Thành phố Phan Thiết"
+        },
+        {
+            "_id": 497,
+            "name": "Thị xã La Gi"
+        },
+        {
+            "_id": 498,
+            "name": "Huyện Tuy Phong"
+        },
+        {
+            "_id": 499,
+            "name": "Huyện Bắc Bình"
+        },
+        {
+            "_id": 500,
+            "name": "Huyện Hàm Thuận Bắc"
+        },
+        {
+            "_id": 501,
+            "name": "Huyện Hàm Thuận Nam"
+        },
+        {
+            "_id": 502,
+            "name": "Huyện Tánh Linh"
+        },
+        {
+            "_id": 503,
+            "name": "Huyện Đức Linh"
+        },
+        {
+            "_id": 504,
+            "name": "Huyện Hàm Tân"
+        },
+        {
+            "_id": 505,
+            "name": "Huyện Phú Quí"
+        },
+        {
+            "_id": 506,
+            "name": "Thành phố Kon Tum"
+        },
+        {
+            "_id": 507,
+            "name": "Huyện Đắk Glei"
+        },
+        {
+            "_id": 508,
+            "name": "Huyện Ngọc Hồi"
+        },
+        {
+            "_id": 509,
+            "name": "Huyện Đắk Tô"
+        },
+        {
+            "_id": 510,
+            "name": "Huyện Kon Plông"
+        },
+        {
+            "_id": 511,
+            "name": "Huyện Kon Rẫy"
+        },
+        {
+            "_id": 512,
+            "name": "Huyện Đắk Hà"
+        },
+        {
+            "_id": 513,
+            "name": "Huyện Sa Thầy"
+        },
+        {
+            "_id": 514,
+            "name": "Huyện Tu Mơ Rông"
+        },
+        {
+            "_id": 515,
+            "name": "Huyện Ia H' Drai"
+        },
+        {
+            "_id": 516,
+            "name": "Thành phố Pleiku"
+        },
+        {
+            "_id": 517,
+            "name": "Thị xã An Khê"
+        },
+        {
+            "_id": 518,
+            "name": "Thị xã Ayun Pa"
+        },
+        {
+            "_id": 519,
+            "name": "Huyện KBang"
+        },
+        {
+            "_id": 520,
+            "name": "Huyện Đăk Đoa"
+        },
+        {
+            "_id": 521,
+            "name": "Huyện Chư Păh"
+        },
+        {
+            "_id": 522,
+            "name": "Huyện Ia Grai"
+        },
+        {
+            "_id": 523,
+            "name": "Huyện Mang Yang"
+        },
+        {
+            "_id": 524,
+            "name": "Huyện Kông Chro"
+        },
+        {
+            "_id": 525,
+            "name": "Huyện Đức Cơ"
+        },
+        {
+            "_id": 427,
+            "name": "Quận Cẩm Lệ"
+        },
+        {
+            "_id": 527,
+            "name": "Huyện Chư Sê"
+        },
+        {
+            "_id": 528,
+            "name": "Huyện Đăk Pơ"
+        },
+        {
+            "_id": 529,
+            "name": "Huyện Ia Pa"
+        },
+        {
+            "_id": 530,
+            "name": "Huyện Krông Pa"
+        },
+        {
+            "_id": 531,
+            "name": "Huyện Phú Thiện"
+        },
+        {
+            "_id": 532,
+            "name": "Huyện Chư Pưh"
+        },
+        {
+            "_id": 533,
+            "name": "Thành phố Buôn Ma Thuột"
+        },
+        {
+            "_id": 534,
+            "name": "Thị Xã Buôn Hồ"
+        },
+        {
+            "_id": 535,
+            "name": "Huyện Ea H'leo"
+        },
+        {
+            "_id": 536,
+            "name": "Huyện Ea Súp"
+        },
+        {
+            "_id": 537,
+            "name": "Huyện Buôn Đôn"
+        },
+        {
+            "_id": 538,
+            "name": "Huyện Cư M'gar"
+        },
+        {
+            "_id": 539,
+            "name": "Huyện Krông Búk"
+        },
+        {
+            "_id": 679,
+            "name": "Thành phố Vĩnh Long"
+        },
+        {
+            "_id": 541,
+            "name": "Huyện Krông Năng"
+        },
+        {
+            "_id": 542,
+            "name": "Huyện Ea Kar"
+        },
+        {
+            "_id": 543,
+            "name": "Huyện M'Đrắk"
+        },
+        {
+            "_id": 544,
+            "name": "Huyện Krông Bông"
+        },
+        {
+            "_id": 545,
+            "name": "Huyện Krông Pắc"
+        },
+        {
+            "_id": 546,
+            "name": "Huyện Krông A Na"
+        },
+        {
+            "_id": 547,
+            "name": "Huyện Lắk"
+        },
+        {
+            "_id": 548,
+            "name": "Huyện Cư Kuin"
+        },
+        {
+            "_id": 549,
+            "name": "Thị xã Gia Nghĩa"
+        },
+        {
+            "_id": 550,
+            "name": "Huyện Đăk Glong"
+        },
+        {
+            "_id": 551,
+            "name": "Huyện Cư Jút"
+        },
+        {
+            "_id": 552,
+            "name": "Huyện Đắk Mil"
+        },
+        {
+            "_id": 553,
+            "name": "Huyện Krông Nô"
+        },
+        {
+            "_id": 554,
+            "name": "Huyện Đắk Song"
+        },
+        {
+            "_id": 555,
+            "name": "Huyện Đắk R'Lấp"
+        },
+        {
+            "_id": 556,
+            "name": "Huyện Tuy Đức"
+        },
+        {
+            "_id": 557,
+            "name": "Thành phố Đà Lạt"
+        },
+        {
+            "_id": 558,
+            "name": "Thành phố Bảo Lộc"
+        },
+        {
+            "_id": 559,
+            "name": "Huyện Đam Rông"
+        },
+        {
+            "_id": 560,
+            "name": "Huyện Lạc Dương"
+        },
+        {
+            "_id": 561,
+            "name": "Huyện Lâm Hà"
+        },
+        {
+            "_id": 562,
+            "name": "Huyện Đơn Dương"
+        },
+        {
+            "_id": 563,
+            "name": "Huyện Đức Trọng"
+        },
+        {
+            "_id": 564,
+            "name": "Huyện Di Linh"
+        },
+        {
+            "_id": 565,
+            "name": "Huyện Đạ Huoai"
+        },
+        {
+            "_id": 566,
+            "name": "Huyện Đạ Tẻh"
+        },
+        {
+            "_id": 567,
+            "name": "Huyện Cát Tiên"
+        },
+        {
+            "_id": 568,
+            "name": "Thị xã Phước Long"
+        },
+        {
+            "_id": 569,
+            "name": "Thị xã Đồng Xoài"
+        },
+        {
+            "_id": 570,
+            "name": "Thị xã Bình Long"
+        },
+        {
+            "_id": 571,
+            "name": "Huyện Bù Gia Mập"
+        },
+        {
+            "_id": 572,
+            "name": "Huyện Lộc Ninh"
+        },
+        {
+            "_id": 573,
+            "name": "Huyện Bù Đốp"
+        },
+        {
+            "_id": 574,
+            "name": "Huyện Hớn Quản"
+        },
+        {
+            "_id": 575,
+            "name": "Huyện Đồng Phú"
+        },
+        {
+            "_id": 576,
+            "name": "Huyện Bù Đăng"
+        },
+        {
+            "_id": 577,
+            "name": "Huyện Chơn Thành"
+        },
+        {
+            "_id": 578,
+            "name": "Huyện Phú Riềng"
+        },
+        {
+            "_id": 579,
+            "name": "Thành phố Tây Ninh"
+        },
+        {
+            "_id": 580,
+            "name": "Huyện Tân Biên"
+        },
+        {
+            "_id": 581,
+            "name": "Huyện Tân Châu"
+        },
+        {
+            "_id": 582,
+            "name": "Huyện Dương Minh Châu"
+        },
+        {
+            "_id": 583,
+            "name": "Huyện Châu Thành"
+        },
+        {
+            "_id": 584,
+            "name": "Thị xã Hòa Thành"
+        },
+        {
+            "_id": 585,
+            "name": "Huyện Gò Dầu"
+        },
+        {
+            "_id": 586,
+            "name": "Huyện Bến Cầu"
+        },
+        {
+            "_id": 587,
+            "name": "Thị xã Trảng Bàng"
+        },
+        {
+            "_id": 588,
+            "name": "Thành phố Thủ Dầu Một"
+        },
+        {
+            "_id": 589,
+            "name": "Huyện Bàu Bàng"
+        },
+        {
+            "_id": 590,
+            "name": "Huyện Dầu Tiếng"
+        },
+        {
+            "_id": 591,
+            "name": "Thị xã Bến Cát"
+        },
+        {
+            "_id": 592,
+            "name": "Huyện Phú Giáo"
+        },
+        {
+            "_id": 491,
+            "name": "Huyện Ninh Sơn"
+        },
+        {
+            "_id": 594,
+            "name": "Thành phố Dĩ An"
+        },
+        {
+            "_id": 595,
+            "name": "Thành phố Thuận An"
+        },
+        {
+            "_id": 596,
+            "name": "Huyện Bắc Tân Uyên"
+        },
+        {
+            "_id": 597,
+            "name": "Thành phố Biên Hòa"
+        },
+        {
+            "_id": 598,
+            "name": "Thành phố Long Khánh"
+        },
+        {
+            "_id": 599,
+            "name": "Huyện Tân Phú"
+        },
+        {
+            "_id": 600,
+            "name": "Huyện Vĩnh Cửu"
+        },
+        {
+            "_id": 601,
+            "name": "Huyện Định Quán"
+        },
+        {
+            "_id": 602,
+            "name": "Huyện Trảng Bom"
+        },
+        {
+            "_id": 603,
+            "name": "Huyện Thống Nhất"
+        },
+        {
+            "_id": 604,
+            "name": "Huyện Cẩm Mỹ"
+        },
+        {
+            "_id": 605,
+            "name": "Huyện Long Thành"
+        },
+        {
+            "_id": 606,
+            "name": "Huyện Xuân Lộc"
+        },
+        {
+            "_id": 607,
+            "name": "Huyện Nhơn Trạch"
+        },
+        {
+            "_id": 608,
+            "name": "Thành phố Vũng Tàu"
+        },
+        {
+            "_id": 609,
+            "name": "Thành phố Bà Rịa"
+        },
+        {
+            "_id": 610,
+            "name": "Huyện Châu Đức"
+        },
+        {
+            "_id": 611,
+            "name": "Huyện Xuyên Mộc"
+        },
+        {
+            "_id": 612,
+            "name": "Huyện Long Điền"
+        },
+        {
+            "_id": 613,
+            "name": "Huyện Đất Đỏ"
+        },
+        {
+            "_id": 614,
+            "name": "Huyện Tân Thành"
+        },
+        {
+            "_id": 615,
+            "name": "Quận 1"
+        },
+        {
+            "_id": 616,
+            "name": "Quận 12"
+        },
+        {
+            "_id": 617,
+            "name": "Thành phố Thủ Đức"
+        },
+        {
+            "_id": 618,
+            "name": "Quận 9"
+        },
+        {
+            "_id": 619,
+            "name": "Quận Gò Vấp"
+        },
+        {
+            "_id": 620,
+            "name": "Quận Bình Thạnh"
+        },
+        {
+            "_id": 621,
+            "name": "Quận Tân Bình"
+        },
+        {
+            "_id": 622,
+            "name": "Quận Tân Phú"
+        },
+        {
+            "_id": 623,
+            "name": "Quận Phú Nhuận"
+        },
+        {
+            "_id": 624,
+            "name": "Quận 2"
+        },
+        {
+            "_id": 625,
+            "name": "Quận 3"
+        },
+        {
+            "_id": 626,
+            "name": "Quận 10"
+        },
+        {
+            "_id": 627,
+            "name": "Quận 11"
+        },
+        {
+            "_id": 628,
+            "name": "Quận 4"
+        },
+        {
+            "_id": 629,
+            "name": "Quận 5"
+        },
+        {
+            "_id": 630,
+            "name": "Quận 6"
+        },
+        {
+            "_id": 631,
+            "name": "Quận 8"
+        },
+        {
+            "_id": 526,
+            "name": "Huyện Chư Prông"
+        },
+        {
+            "_id": 633,
+            "name": "Quận 7"
+        },
+        {
+            "_id": 634,
+            "name": "Huyện Củ Chi"
+        },
+        {
+            "_id": 635,
+            "name": "Huyện Hóc Môn"
+        },
+        {
+            "_id": 636,
+            "name": "Huyện Bình Chánh"
+        },
+        {
+            "_id": 637,
+            "name": "Huyện Nhà Bè"
+        },
+        {
+            "_id": 638,
+            "name": "Huyện Cần Giờ"
+        },
+        {
+            "_id": 639,
+            "name": "Thành phố Tân An"
+        },
+        {
+            "_id": 640,
+            "name": "Thị xã Kiến Tường"
+        },
+        {
+            "_id": 641,
+            "name": "Huyện Tân Hưng"
+        },
+        {
+            "_id": 781,
+            "name": "Huyện Chợ Gạo"
+        },
+        {
+            "_id": 643,
+            "name": "Huyện Mộc Hóa"
+        },
+        {
+            "_id": 644,
+            "name": "Huyện Tân Thạnh"
+        },
+        {
+            "_id": 645,
+            "name": "Huyện Thạnh Hóa"
+        },
+        {
+            "_id": 646,
+            "name": "Huyện Đức Huệ"
+        },
+        {
+            "_id": 647,
+            "name": "Huyện Đức Hòa"
+        },
+        {
+            "_id": 648,
+            "name": "Huyện Bến Lức"
+        },
+        {
+            "_id": 649,
+            "name": "Huyện Thủ Thừa"
+        },
+        {
+            "_id": 650,
+            "name": "Huyện Tân Trụ"
+        },
+        {
+            "_id": 651,
+            "name": "Huyện Cần Đước"
+        },
+        {
+            "_id": 652,
+            "name": "Huyện Cần Giuộc"
+        },
+        {
+            "_id": 653,
+            "name": "Thành phố Mỹ Tho"
+        },
+        {
+            "_id": 654,
+            "name": "Thị xã Gò Công"
+        },
+        {
+            "_id": 655,
+            "name": "Thị xã Cai Lậy"
+        },
+        {
+            "_id": 656,
+            "name": "Huyện Tân Phước"
+        },
+        {
+            "_id": 657,
+            "name": "Huyện Cái Bè"
+        },
+        {
+            "_id": 658,
+            "name": "Huyện Cai Lậy"
+        },
+        {
+            "_id": 772,
+            "name": "Huyện Châu Thành"
+        },
+        {
+            "_id": 660,
+            "name": "Huyện Gò Công Tây"
+        },
+        {
+            "_id": 661,
+            "name": "Huyện Gò Công Đông"
+        },
+        {
+            "_id": 662,
+            "name": "Huyện Tân Phú Đông"
+        },
+        {
+            "_id": 663,
+            "name": "Thành phố Bến Tre"
+        },
+        {
+            "_id": 664,
+            "name": "Huyện Chợ Lách"
+        },
+        {
+            "_id": 665,
+            "name": "Huyện Mỏ Cày Nam"
+        },
+        {
+            "_id": 666,
+            "name": "Huyện Giồng Trôm"
+        },
+        {
+            "_id": 667,
+            "name": "Huyện Bình Đại"
+        },
+        {
+            "_id": 668,
+            "name": "Huyện Ba Tri"
+        },
+        {
+            "_id": 669,
+            "name": "Huyện Thạnh Phú"
+        },
+        {
+            "_id": 670,
+            "name": "Huyện Mỏ Cày Bắc"
+        },
+        {
+            "_id": 671,
+            "name": "Thành phố Trà Vinh"
+        },
+        {
+            "_id": 672,
+            "name": "Huyện Càng Long"
+        },
+        {
+            "_id": 673,
+            "name": "Huyện Cầu Kè"
+        },
+        {
+            "_id": 674,
+            "name": "Huyện Tiểu Cần"
+        },
+        {
+            "_id": 675,
+            "name": "Huyện Cầu Ngang"
+        },
+        {
+            "_id": 676,
+            "name": "Huyện Trà Cú"
+        },
+        {
+            "_id": 677,
+            "name": "Huyện Duyên Hải"
+        },
+        {
+            "_id": 678,
+            "name": "Thị xã Duyên Hải"
+        },
+        {
+            "_id": 680,
+            "name": "Huyện Long Hồ"
+        },
+        {
+            "_id": 681,
+            "name": "Huyện Mang Thít"
+        },
+        {
+            "_id": 682,
+            "name": "Huyện  Vũng Liêm"
+        },
+        {
+            "_id": 683,
+            "name": "Huyện Tam Bình"
+        },
+        {
+            "_id": 684,
+            "name": "Thị xã Bình Minh"
+        },
+        {
+            "_id": 685,
+            "name": "Huyện Trà Ôn"
+        },
+        {
+            "_id": 686,
+            "name": "Huyện Bình Tân"
+        },
+        {
+            "_id": 687,
+            "name": "Thành phố Cao Lãnh"
+        },
+        {
+            "_id": 689,
+            "name": "Thành phố Hồng Ngự"
+        },
+        {
+            "_id": 690,
+            "name": "Huyện Tân Hồng"
+        },
+        {
+            "_id": 691,
+            "name": "Huyện Hồng Ngự"
+        },
+        {
+            "_id": 692,
+            "name": "Huyện Tháp Mười"
+        },
+        {
+            "_id": 693,
+            "name": "Huyện Cao Lãnh"
+        },
+        {
+            "_id": 694,
+            "name": "Huyện Thanh Bình"
+        },
+        {
+            "_id": 695,
+            "name": "Huyện Lấp Vò"
+        },
+        {
+            "_id": 696,
+            "name": "Huyện Lai Vung"
+        },
+        {
+            "_id": 697,
+            "name": "Thành phố Long Xuyên"
+        },
+        {
+            "_id": 698,
+            "name": "Thành phố Châu Đốc"
+        },
+        {
+            "_id": 699,
+            "name": "Huyện An Phú"
+        },
+        {
+            "_id": 700,
+            "name": "Thị xã Tân Châu"
+        },
+        {
+            "_id": 701,
+            "name": "Huyện Phú Tân"
+        },
+        {
+            "_id": 703,
+            "name": "Huyện Tịnh Biên"
+        },
+        {
+            "_id": 593,
+            "name": "Thị xã Tân Uyên"
+        },
+        {
+            "_id": 702,
+            "name": "Huyện Châu Phú"
+        },
+        {
+            "_id": 706,
+            "name": "Thành phố Rạch Giá"
+        },
+        {
+            "_id": 705,
+            "name": "Huyện Thoại Sơn"
+        },
+        {
+            "_id": 707,
+            "name": "Thành phố Hà Tiên"
+        },
+        {
+            "_id": 708,
+            "name": "Huyện Kiên Lương"
+        },
+        {
+            "_id": 688,
+            "name": "Thành phố Sa Đéc"
+        },
+        {
+            "_id": 709,
+            "name": "Huyện Hòn Đất"
+        },
+        {
+            "_id": 717,
+            "name": "Huyện Phú Quốc"
+        },
+        {
+            "_id": 711,
+            "name": "Huyện Tân Hiệp"
+        },
+        {
+            "_id": 712,
+            "name": "Huyện Giồng Riềng"
+        },
+        {
+            "_id": 713,
+            "name": "Huyện Gò Quao"
+        },
+        {
+            "_id": 714,
+            "name": "Huyện An Biên"
+        },
+        {
+            "_id": 715,
+            "name": "Huyện An Minh"
+        },
+        {
+            "_id": 716,
+            "name": "Huyện Vĩnh Thuận"
+        },
+        {
+            "_id": 718,
+            "name": "Huyện Kiên Hải"
+        },
+        {
+            "_id": 719,
+            "name": "Huyện U Minh Thượng"
+        },
+        {
+            "_id": 720,
+            "name": "Huyện Giang Thành"
+        },
+        {
+            "_id": 721,
+            "name": "Quận Ninh Kiều"
+        },
+        {
+            "_id": 722,
+            "name": "Quận Ô Môn"
+        },
+        {
+            "_id": 723,
+            "name": "Quận Bình Thuỷ"
+        },
+        {
+            "_id": 724,
+            "name": "Quận Cái Răng"
+        },
+        {
+            "_id": 725,
+            "name": "Quận Thốt Nốt"
+        },
+        {
+            "_id": 726,
+            "name": "Huyện Cờ Đỏ"
+        },
+        {
+            "_id": 727,
+            "name": "Huyện Thới Lai"
+        },
+        {
+            "_id": 728,
+            "name": "Thành phố Vị Thanh"
+        },
+        {
+            "_id": 729,
+            "name": "Thành phố Ngã Bảy"
+        },
+        {
+            "_id": 730,
+            "name": "Huyện Châu Thành A"
+        },
+        {
+            "_id": 731,
+            "name": "Huyện Phụng Hiệp"
+        },
+        {
+            "_id": 732,
+            "name": "Huyện Vị Thuỷ"
+        },
+        {
+            "_id": 733,
+            "name": "Huyện Long Mỹ"
+        },
+        {
+            "_id": 734,
+            "name": "Thị xã Long Mỹ"
+        },
+        {
+            "_id": 735,
+            "name": "Thành phố Sóc Trăng"
+        },
+        {
+            "_id": 736,
+            "name": "Huyện Kế Sách"
+        },
+        {
+            "_id": 737,
+            "name": "Huyện Mỹ Tú"
+        },
+        {
+            "_id": 738,
+            "name": "Huyện Cù Lao Dung"
+        },
+        {
+            "_id": 739,
+            "name": "Huyện Long Phú"
+        },
+        {
+            "_id": 740,
+            "name": "Huyện Mỹ Xuyên"
+        },
+        {
+            "_id": 741,
+            "name": "Thị xã Ngã Năm"
+        },
+        {
+            "_id": 742,
+            "name": "Huyện Thạnh Trị"
+        },
+        {
+            "_id": 743,
+            "name": "Thị xã Vĩnh Châu"
+        },
+        {
+            "_id": 744,
+            "name": "Huyện Trần Đề"
+        },
+        {
+            "_id": 745,
+            "name": "Thành phố Bạc Liêu"
+        },
+        {
+            "_id": 746,
+            "name": "Huyện Hồng Dân"
+        },
+        {
+            "_id": 632,
+            "name": "Quận Bình Tân"
+        },
+        {
+            "_id": 750,
+            "name": "Huyện Đông Hải"
+        },
+        {
+            "_id": 752,
+            "name": "Thành phố Cà Mau"
+        },
+        {
+            "_id": 753,
+            "name": "Huyện U Minh"
+        },
+        {
+            "_id": 754,
+            "name": "Huyện Thới Bình"
+        },
+        {
+            "_id": 755,
+            "name": "Huyện Trần Văn Thời"
+        },
+        {
+            "_id": 756,
+            "name": "Huyện Cái Nước"
+        },
+        {
+            "_id": 757,
+            "name": "Huyện Đầm Dơi"
+        },
+        {
+            "_id": 758,
+            "name": "Huyện Năm Căn"
+        },
+        {
+            "_id": 759,
+            "name": "Huyện Ngọc Hiển"
+        },
+        {
+            "_id": 760,
+            "name": "Huyện Chợ Mới"
+        },
+        {
+            "_id": 763,
+            "name": "Thành phố Cam Đường"
+        },
+        {
+            "_id": 767,
+            "name": "Huyện Bảo Lâm"
+        },
+        {
+            "_id": 769,
+            "name": "Huyện Châu Thành"
+        },
+        {
+            "_id": 771,
+            "name": "Huyện Châu Thành"
+        },
+        {
+            "_id": 780,
+            "name": "Thị xã Phú Mỹ"
+        },
+        {
+            "_id": 775,
+            "name": "Huyện Châu Thành"
+        },
+        {
+            "_id": 777,
+            "name": "Huyện Phong Điền"
+        },
+        {
+            "_id": 782,
+            "name": "Thị xã Nghi Sơn"
+        },
+        {
+            "_id": 783,
+            "name": "Huyện Châu Thành"
+        },
+        {
+            "_id": 761,
+            "name": "Huyện Châu Thành"
+        },
+        {
+            "_id": 764,
+            "name": "Huyện Châu Thành"
+        },
+        {
+            "_id": 748,
+            "name": "Huyện Vĩnh Lợi"
+        },
+        {
+            "_id": 749,
+            "name": "Thị xã Giá Rai"
+        },
+        {
+            "_id": 751,
+            "name": "Huyện Hoà Bình"
+        },
+        {
+            "_id": 766,
+            "name": "Huyện Bạch Long Vĩ"
+        },
+        {
+            "_id": 765,
+            "name": "Huyện Tam Nông"
+        },
+        {
+            "_id": 768,
+            "name": "Huyện Vĩnh Hưng"
+        },
+        {
+            "_id": 762,
+            "name": "Huyện Châu Thành"
+        },
+        {
+            "_id": 779,
+            "name": "Huyện Vĩnh Thạnh"
+        },
+        {
+            "_id": 784,
+            "name": "Huyện Châu Thành"
+        },
+        {
+            "_id": 785,
+            "name": "Huyện Phú Tân"
+        },
+        {
+            "_id": 704,
+            "name": "Huyện Tri Tôn"
+        },
+        {
+            "_id": 747,
+            "name": "Huyện Phước Long"
+        }
+    ]
+}
